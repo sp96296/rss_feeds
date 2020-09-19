@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>QuiteRSS</title>
+        <dateModified>Sat Sep 19 19:53:14 2020</dateModified>
+    </head>
+    <body>
+        <outline text="All">
+            <outline text="News">
+                <outline text="General Global Health News Feeds">
+                    <outline text="Public Health Matters Blog" type="rss" htmlUrl="https://blogs.cdc.gov/publichealthmatters" xmlUrl="https://blogs.cdc.gov/publichealthmatters/feed/"/>
+                    <outline text="Kaiser Daily Global Health Policy Report" type="rss" htmlUrl="https://www.kff.org" xmlUrl="http://feeds.kff.org/kff/kdghpr"/>
+                    <outline text="NPR: Global Health" type="rss" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1031" xmlUrl="http://www.npr.org/rss/rss.php?id=1031"/>
+                    <outline text="The Lancet Global Health Blog" type="rss" htmlUrl="http://globalhealth.thelancet.com/" xmlUrl="http://globalhealth.thelancet.com/rss.xml"/>
+                    <outline text="Global Health Council" type="rss" htmlUrl="https://globalhealth.org" xmlUrl="http://globalhealth.org/feed/"/>
+                    <outline text="THCB" type="rss" htmlUrl="https://thehealthcareblog.com" xmlUrl="http://thehealthcareblog.com/feed/"/>
+                    <outline text="Global Health: Science and Practice current issue" type="rss" htmlUrl="http://ghspjournal.org" xmlUrl="http://www.ghspjournal.org/rss/current.xml"/>
+                    <outline text="Global Issues - Health Issues News Headlines" type="rss" htmlUrl="https://www.globalissues.org/news/2020/09/17/26840" xmlUrl="http://www.globalissues.org/news/topic/587/feed"/>
+                    <outline text="GHNGN" type="rss" htmlUrl="http://ghnetwork.org" xmlUrl="http://ghnetwork.org/feed/"/>
+                    <outline text="Global Health and Wellness News - ENN" type="rss" htmlUrl="http://www.enn.com/topics/health" xmlUrl="http://feeds2.feedburner.com/GlobalHealthAndWellnessNews-Enn"/>
+                    <outline text="The Guardian | Health" type="rss" htmlUrl="https://www.theguardian.com/society/health" xmlUrl="https://www.theguardian.com/society/health/rss"/>
+                    <outline text="Global Health Delivery Project (Harvard)" type="rss" htmlUrl="https://www.globalhealthdelivery.org/feed" xmlUrl="http://www.globalhealthdelivery.org/feed/"/>
+                    <outline text="The Lancet" type="rss" htmlUrl="https://www.thelancet.com/journals/lancet/issues" xmlUrl="http://www.thelancet.com/rssfeed/lancet_online.xml"/>
+                    <outline text="American Medical Association" type="rss" htmlUrl="https://www.ama-assn.org" xmlUrl="https://www.ama-assn.org/amednews/newsfeed/rss20.rss"/>
+                    <outline text="BMJ - Latest headlines" type="rss" htmlUrl="http://www.bmj.com" xmlUrl="http://feeds.bmj.com/bmj/recent"/>
+                    <outline text="Global Health Hub: news and blogosphere aggregator" type="rss" htmlUrl="http://www.globalhealthhub.org" xmlUrl="http://feeds.feedburner.com/globalhealthhub/hqeL"/>
+                    <outline text="Huffington Post - Healthy Living" type="rss" htmlUrl="http://www.huffingtonpost.com/tag/healthy-living-original-video" xmlUrl="http://www.huffingtonpost.com/news/health-and-wellness/feed//"/>
+                    <outline text="Reuters: Health News" type="rss" htmlUrl="http://www.reuters.com" xmlUrl="http://feeds.reuters.com/reuters/healthNews"/>
+                    <outline text="Investing in Health - News and views in healthy development" type="rss" htmlUrl="http://blogs.worldbank.org/health/" xmlUrl="http://blogs.worldbank.org/health/rss-fulltext.xml"/>
+                </outline>
+                <outline text="Global Health + Development">
+                    <outline text="WHO features" type="rss" htmlUrl="http://www.who.int/feeds/features/en/rss.xml" xmlUrl="http://www.who.int/feeds/features/en/rss.xml"/>
+                    <outline text="Project Syndicate - Global Health and Development Op-Ed Articles" type="rss" htmlUrl="https://www.project-syndicate.org/rss/global-health-development" xmlUrl="https://www.project-syndicate.org/rss/growth-and-development"/>
+                    <outline text="Canadian Coalition for Global Health Research - CCGHR|CCRSM" type="rss" htmlUrl="https://www.ccghr.ca" xmlUrl="http://www.ccghr.ca/feed/"/>
+                    <outline text="Council on Health Research for Development - COHRED" type="rss" htmlUrl="https://www.cohred.org" xmlUrl="http://www.cohred.org/feed/"/>
+                    <outline text="Impatient Optimists" type="rss" htmlUrl="http://www.impatientoptimists.org/" xmlUrl="http://www.impatientoptimists.org/Rss?view=rss&amp;RssMode=Enhanced"/>
+                    <outline text="WHO news" type="rss" htmlUrl="http://www.who.int/feeds/entity/mediacentre/news/en/rss.xml" xmlUrl="http://www.who.int/feeds/entity/mediacentre/news/en/rss.xml"/>
+                    <outline text="Translational Global Health" type="rss" htmlUrl="http://blogs.plos.org/globalhealth" xmlUrl="http://blogs.plos.org/globalhealth/feed/"/>
+                    <outline text="Health and Human Rights Journal" type="rss" htmlUrl="https://www.hhrjournal.org" xmlUrl="https://www.hhrjournal.org/feed/"/>
+                    <outline text="CGDev - Global Health Blog" type="rss" htmlUrl="https://www.cgdev.org/blog/globalhealth/feed" xmlUrl="http://www.cgdev.org/blog/globalhealth/feed"/>
+                    <outline text="Brookings Topics - Global Health" type="rss" htmlUrl="http://www.brookings.edu/research/topics/global-health?rssid=global+health" xmlUrl="http://webfeeds.brookings.edu/brookingsrss/topics/globalhealth?format=xml"/>
+                    <outline text="CSIS Smart Global Health Policy Blog" type="rss" htmlUrl="http://www.smartglobalhealth.org/" xmlUrl="http://www.smartglobalhealth.org/blog/rss/"/>
+                    <outline text="IntraHealth News" type="rss" htmlUrl="https://www.intrahealth.org" xmlUrl="https://www.intrahealth.org/section/news1.rss"/>
+                    <outline text="The George Institute for Global Health" type="rss" htmlUrl="https://www.georgeinstitute.org/" xmlUrl="http://www.georgeinstitute.org/rss.xml"/>
+                    <outline text="OECD.org - Health" type="rss" htmlUrl="http://www.oecd.org" xmlUrl="http://www.oecd.org/health/index.xml"/>
+                    <outline text="IDS Health and Nutrition research cluster" type="rss" htmlUrl="http://www.ids.ac.uk/" xmlUrl="http://www.ids.ac.uk/team/health-and-nutrition/view/feedblogsrss"/>
+                    <outline text="Future Health Systems - Blog" type="rss" htmlUrl="http://www.futurehealthsystems.org/blog/" xmlUrl="http://www.futurehealthsystems.org/blog?format=RSS"/>
+                    <outline text="Journal of Public Health in Developing Countries" type="rss" htmlUrl="http://www.jphdc.org/index.php/jphdc" xmlUrl="http://www.jphdc.org/index.php/jphdc/gateway/plugin/WebFeedGatewayPlugin/rss2"/>
+                    <outline text="Partners In Health Blog" type="rss" htmlUrl="http://www.pih.org" xmlUrl="http://www.pih.org/blog/rss"/>
+                    <outline text="SciDevNet - Health" type="rss" htmlUrl="https://www.scidev.net/global/health/" xmlUrl="http://www.scidev.net/global/health/health_rss.xml"/>
+                    <outline text="Médecins Sans Frontières (MSF) International" type="rss" htmlUrl="http://www.msf.org/en/rss" xmlUrl="http://www.msf.org/rss"/>
+                    <outline text="MSF UK - Latest News" type="rss" htmlUrl="http://www.msf.org.uk/rss/events.aspx" xmlUrl="https://www.msf.org.uk/rss/news.aspx"/>
+                    <outline text="Results for Development Institute - Health" type="rss" htmlUrl="http://r4d.org/category/tags/health" xmlUrl="http://www.r4d.org/taxonomy/term/153/feed"/>
+                    <outline text="Fogarty International Center News" type="rss" htmlUrl="https://www.fic.nih.gov/_layouts/15/feed.aspx?xsl=2&amp;web=/&amp;page=30279b42-5722-49b2-b0f3-be98db29fc97&amp;wp=095b207c-062f-4ff6-be1e-7eb39ab925d2" xmlUrl="https://www.fic.nih.gov/_layouts/feed.aspx?xsl=2&amp;web=%2F&amp;page=30279b42-5722-49b2-b0f3-be98db29fc97&amp;wp=095b207c-062f-4ff6-be1e-7eb39ab925d2"/>
+                </outline>
+                <outline text="Health by Disease">
+                    <outline text="Cancer Research UK – Science blog" type="rss" htmlUrl="https://scienceblog.cancerresearchuk.org" xmlUrl="http://scienceblog.cancerresearchuk.org/feed/"/>
+                    <outline text="UNAIDS | Latest Feature Stories" type="rss" htmlUrl="https://www.unaids.org/en/rss/latestfeaturestories/index.xml" xmlUrl="http://www.unaids.org/en/rss/latestfeaturestories/index.xml"/>
+                    <outline text="Topix - HIV/AIDS News" type="rss" htmlUrl="https://stars.topix.com/" xmlUrl="http://www.topix.com/rss/health/hiv-aids.xml"/>
+                    <outline text="Tropical Health Matters" type="rss" htmlUrl="http://malariamatters.org" xmlUrl="http://malariamatters.org/feed/"/>
+                    <outline text="PLOS Neglected Tropical Diseases" type="rss" htmlUrl="https://journals.plos.org/plosntds/" xmlUrl="http://feeds.plos.org/plosntds/NewArticles"/>
+                    <outline text="CDC - HIV/AIDS" type="rss" htmlUrl="http://www.cdc.gov/hiv/" xmlUrl="https://www.cdc.gov/hiv/rss/hiv.xml"/>
+                    <outline text="Medscape HIV/AIDS Headlines" type="rss" htmlUrl="http://www.medscape.com/hiv?src=rss" xmlUrl="http://www.medscape.com/cx/rssfeeds/2677.xml"/>
+                    <outline text="IARC News and Press Releases." type="rss" htmlUrl="http://www.iarc.fr/en/feeds/news/feeds.xml" xmlUrl="http://www.iarc.fr/en/feeds/news/feeds.xml"/>
+                    <outline text="Global Fund for AIDS, Tuberculosis and Malaria" type="rss" htmlUrl="http://www.theglobalfund.org/data/rss-feeds/news/" xmlUrl="http://feeds.feedburner.com/theglobalfund/rss"/>
+                    <outline text="American Cancer Society" type="rss" htmlUrl="" xmlUrl="http://www.cancer.org/rss/index"/>
+                    <outline text="Cancer Research UK - News" type="rss" htmlUrl="" xmlUrl="http://www.cancerresearchuk.org/cancer-info/rss/?rsstype=cancer-news"/>
+                    <outline text="UNAIDS" type="rss" htmlUrl="" xmlUrl="http://www.unaids.org/en/rss/latestpublications/index.asp"/>
+                    <outline text="UICC" type="rss" htmlUrl="https://www.uicc.org/rss-feed" xmlUrl="http://www.uicc.org/full_feed"/>
+                </outline>
+                <outline text="Nonprofits + Charity Sector News">
+                    <outline text="Care2Blog" type="rss" htmlUrl="http://www.care2services.com/care2blog" xmlUrl="http://www.care2services.com/care2blog/rss.xml"/>
+                    <outline text="National Council of Nonprofits - Nonprofit Impact" type="rss" htmlUrl="https://www.councilofnonprofits.org/article-categories/nonprofit-impact" xmlUrl="https://www.councilofnonprofits.org/taxonomy/term/51/feed"/>
+                    <outline text="Standards for Excellence" type="rss" htmlUrl="https://standardsforexcellence.org" xmlUrl="https://standardsforexcellence.org/feed/"/>
+                    <outline text="ARNOVA Journal" type="rss" htmlUrl="http://journals.sagepub.com" xmlUrl="http://journals.sagepub.com/action/showFeed?ui=0&amp;mi=ehikzz&amp;ai=2b4&amp;jc=nvsb&amp;type=etoc&amp;feed=rss"/>
+                    <outline text="ISQ Magazine" type="rss" htmlUrl="http://isqmagazine.org" xmlUrl="http://isqmagazine.org/feed/"/>
+                    <outline text="CharityChannel" type="rss" htmlUrl="https://charitychannel.com" xmlUrl="https://charitychannel.com/feed/"/>
+                    <outline text="Connecting Up - Learningcentre" type="rss" htmlUrl="https://www.connectingup.org/rss-learning-centre.xml" xmlUrl="http://www.connectingup.org/rss-learning-centre.xml"/>
+                    <outline text="Susan's Site" type="rss" htmlUrl="http://www.susanchavez.com" xmlUrl="http://www.susanchavez.com/feed/"/>
+                    <outline text="NEW - Solutions for Nonprofits" type="rss" htmlUrl="https://www.new.org" xmlUrl="http://www.new.org/feed/"/>
+                    <outline text="npENGAGE" type="rss" htmlUrl="http://npengage.com" xmlUrl="http://npengage.com/feed/"/>
+                    <outline text="Kivi's Nonprofit Communications Blog" type="rss" htmlUrl="https://www.nonprofitmarketingguide.com/blog" xmlUrl="http://www.nonprofitmarketingguide.com/blog/feed/"/>
+                    <outline text="Nonprofit Quarterly" type="rss" htmlUrl="https://nonprofitquarterly.org" xmlUrl="https://nonprofitquarterly.org/feed/"/>
+                    <outline text="Nonprofit Tech for Good" type="rss" htmlUrl="https://www.nptechforgood.com" xmlUrl="http://www.nptechforgood.com/feed/"/>
+                    <outline text="Independent Sector - Blog" type="rss" htmlUrl="http://www.independentsector.org/blog/" xmlUrl="http://www.independentsector.org/blog/feeds/rss.cfm"/>
+                    <outline text="ThinkNPC" type="rss" htmlUrl="https://www.thinknpc.org" xmlUrl="http://www.thinknpc.org/feed/"/>
+                    <outline text="Contentuity360 Blog" type="rss" htmlUrl="http://www.contentuity360.com/blog" xmlUrl="http://www.contentuity360.com/blog/rss.xml"/>
+                    <outline text="Top Nonprofits" type="rss" htmlUrl="https://topnonprofits.com" xmlUrl="http://feeds.feedburner.com/TopNonprofits"/>
+                    <outline text="Social Media For Nonprofits" type="rss" htmlUrl="http://socialmedia4nonprofits.org" xmlUrl="http://socialmedia4nonprofits.org/feed/"/>
+                    <outline text="Media Cause" type="rss" htmlUrl="https://mediacause.org" xmlUrl="http://mediacause.org/feed/"/>
+                    <outline text="NonProfit PRO" type="rss" htmlUrl="https://www.nonprofitpro.com" xmlUrl="http://www.nonprofitpro.com/feed/"/>
+                    <outline text="Accountable Now" type="rss" htmlUrl="https://ingoaccountabilitycharter.org" xmlUrl="http://www.ingoaccountabilitycharter.org/feed/"/>
+                    <outline text="Blue Avocado" type="rss" htmlUrl="https://blueavocado.org" xmlUrl="http://www.blueavocado.org/rss.xml"/>
+                    <outline text="NCVO Blogs" type="rss" htmlUrl="https://blogs.ncvo.org.uk" xmlUrl="http://blogs.ncvo.org.uk/feed/"/>
+                    <outline text="Voluntary sector | The Guardian" type="rss" htmlUrl="https://www.theguardian.com/society/voluntarysector" xmlUrl="https://www.theguardian.com/society/voluntarysector/rss"/>
+                    <outline text="Beth Kanter's Blog" type="rss" htmlUrl="http://www.bethkanter.org" xmlUrl="http://www.bethkanter.org/feed/"/>
+                    <outline text="The NonProfit Times" type="rss" htmlUrl="http://www.thenonprofittimes.com" xmlUrl="http://www.thenonprofittimes.com/news-articles/feed/"/>
+                    <outline text="The Storytelling Non-Profit" type="rss" htmlUrl="https://www.thestorytellingnonprofit.com" xmlUrl="http://www.thestorytellingnonprofit.com/feed/"/>
+                    <outline text="Nonprofit Hub" type="rss" htmlUrl="https://nonprofithub.org" xmlUrl="http://nonprofithub.org/feed/"/>
+                    <outline text="Nonprofit Information –  A Site Full of Tips for Nonprofits" type="rss" htmlUrl="https://nonprofitinformation.com" xmlUrl="http://nonprofitinformation.com/feed/"/>
+                    <outline text="Nonprofit Technology Network" type="rss" htmlUrl="https://www.nten.org" xmlUrl="http://www.nten.org/feed/"/>
+                    <outline text="Daniel Melbye Blog" type="rss" htmlUrl="http://danielmelbye.com" xmlUrl="http://danielmelbye.com/feed/"/>
+                    <outline text="John Haydon Blog" type="rss" htmlUrl="https://www.johnhaydon.com" xmlUrl="http://www.johnhaydon.com/feed/"/>
+                    <outline text="Connecting Up - Blog" type="rss" htmlUrl="http://www.connectingup.org/blog" xmlUrl="http://www.connectingup.org/rss-blog.xml"/>
+                </outline>
+                <outline text="Philanthropy News Feeds">
+                    <outline text="Grantcraft" type="rss" htmlUrl="https://grantcraft.org" xmlUrl="http://www.grantcraft.org/feed"/>
+                    <outline text="Global Philanthropy Forum" type="rss" htmlUrl="https://www.philanthropyforum.org" xmlUrl="https://www.philanthropyforum.org/feed/"/>
+                    <outline text="Emerging Practitioners in Philanthropy - Blog" type="rss" htmlUrl="http://www.epip.org/blog" xmlUrl="http://www.epip.org/blog.rss"/>
+                    <outline text="Grants Managers Network" type="rss" htmlUrl="http://www.gmnetwork.org" xmlUrl="http://www.gmnetwork.org/feed/"/>
+                    <outline text="Alliance magazine" type="rss" htmlUrl="https://www.alliancemagazine.org" xmlUrl="http://feeds.feedburner.com/alliancemagazine/DeMY"/>
+                    <outline text="Forbes - Philanthropy" type="rss" htmlUrl="https://www.forbes.com/philanthropy/" xmlUrl="http://www.forbes.com/philanthropy/feed/"/>
+                    <outline text="The Grantsmanship Center Podcast" type="rss" htmlUrl="http://www.tgci.com" xmlUrl="http://www.tgci.com/podcasts/rss.xml"/>
+                    <outline text="Philanthropy on Huffington Post" type="rss" htmlUrl="http://www.huffingtonpost.com/tag/philanthropy" xmlUrl="http://www.huffingtonpost.com/news/philanthropy/feed//"/>
+                    <outline text="EDGE Funders" type="rss" htmlUrl="https://edgefunders.org" xmlUrl="http://edgefunders.org/feed/"/>
+                    <outline text="The GiveWell Blog" type="rss" htmlUrl="https://blog.givewell.org" xmlUrl="http://blog.givewell.org/feed/"/>
+                    <outline text="The Center for Effective Philanthropy" type="rss" htmlUrl="http://cep.org" xmlUrl="http://effectivephilanthropy.org/feed/"/>
+                    <outline text="Council on Foundations" type="rss" htmlUrl="https://www.cof.org/rss.xml" xmlUrl="http://www.cof.org/rss.xml"/>
+                    <outline text="PHILANTHROPY 2173" type="rss" htmlUrl="http://philanthropy.blogspot.com/" xmlUrl="http://philanthropy.blogspot.com/feeds/posts/default"/>
+                    <outline text="onPhilanthropy" type="rss" htmlUrl="http://onphilanthropy.com" xmlUrl="http://onphilanthropy.com/feed/"/>
+                    <outline text="LearnPhilanthropy" type="rss" htmlUrl="https://learnphilanthropy.org" xmlUrl="http://learnphilanthropy.org/feed/"/>
+                    <outline text="Philanthropy News Digest" type="rss" htmlUrl="http://philanthropynewsdigest.org/" xmlUrl="http://philanthropynewsdigest.org/rss/feed/pndnews"/>
+                    <outline text="The Chronicle of Philanthropy" type="rss" htmlUrl="https://philanthropy.com/" xmlUrl="https://www.philanthropy.com/rss/all"/>
+                    <outline text="Grantmakers for Effective Organizations" type="rss" htmlUrl="http://www.geofunders.org/component/content/frontpage" xmlUrl="http://www.geofunders.org/index.php?format=feed&amp;amp;type=rss"/>
+                </outline>
+                <outline text="Social Development News">
+                    <outline text="OECD.org - Social and welfare issues" type="rss" htmlUrl="http://www.oecd.org" xmlUrl="http://www.oecd.org/social/index.xml"/>
+                    <outline text="UNSDN – United Nations Social Development Network" type="rss" htmlUrl="https://unsdn.org" xmlUrl="http://unsdn.org/feed/"/>
+                    <outline text="UNRISD | News &amp; Views" type="rss" htmlUrl="http://www.unrisd.org/rss_news_en.xml" xmlUrl="http://www.unrisd.org/rss_news_en.xml"/>
+                    <outline text="GSDRC » Social Development" type="rss" htmlUrl="https://gsdrc.org" xmlUrl="http://www.gsdrc.org/category/social-development/feed/"/>
+                    <outline text="UNRISD | Publications" type="rss" htmlUrl="http://www.unrisd.org/rss_publications_en.xml" xmlUrl="http://www.unrisd.org/rss_publications_en.xml"/>
+                </outline>
+                <outline text="Social Entrepreneurship News Feeds">
+                    <outline text="Impact Hub - Stories" type="rss" htmlUrl="http://www.impacthub.net/stories" xmlUrl="http://www.impacthub.net/stories/rss.xml"/>
+                    <outline text="Skoll Centre for Social Entrepreneurship" type="rss" htmlUrl="http://skollcentreblog.org" xmlUrl="http://skollcentreblog.org/feed/"/>
+                    <outline text="Acumen Fund Blog" type="rss" htmlUrl="https://acumen.org" xmlUrl="http://feeds.feedburner.com/AcumenFundBlog"/>
+                    <outline text="SocialEarth" type="rss" htmlUrl="http://socialearth.org" xmlUrl="http://feeds.feedburner.com/socialearth"/>
+                    <outline text="Social Entrepreneurship on Huffington Post" type="rss" htmlUrl="http://www.huffingtonpost.com/tag/social-entrepreneurship" xmlUrl="http://www.huffingtonpost.com/news/social-entrepreneurship/feed//"/>
+                    <outline text="Impact - The Huffington Post" type="rss" htmlUrl="https://www.huffpost.com/impact" xmlUrl="http://www.huffingtonpost.com/feeds/verticals/impact/index.xml"/>
+                    <outline text="Pioneers Post - Latest News Feed" type="rss" htmlUrl="https://www.pioneerspost.com/feed" xmlUrl="https://www.pioneerspost.com/feed"/>
+                    <outline text="Our Ideas | Blog" type="rss" htmlUrl="http://www.echoinggreen.org/blog" xmlUrl="http://www.echoinggreen.org/blog/rss.xml"/>
+                    <outline text="Skoll.org" type="rss" htmlUrl="https://skoll.org" xmlUrl="http://skoll.org/feed/"/>
+                    <outline text="Fixes | NYT" type="rss" htmlUrl="https://www.nytimes.com/column/fixes" xmlUrl="http://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/fixes/rss.xml"/>
+                    <outline text="ImpactHub - Scaling" type="rss" htmlUrl="http://scaling.impacthub.net" xmlUrl="http://scaling.impacthub.net/feed/"/>
+                    <outline text="School for Social Entrepreneurship" type="rss" htmlUrl="https://www.the-sse.org/blog" xmlUrl="https://www.the-sse.org/blog/feed/"/>
+                    <outline text="UnLtd" type="rss" htmlUrl="https://unltd.org.uk" xmlUrl="https://unltd.org.uk/feed/"/>
+                    <outline text="ClearlySo" type="rss" htmlUrl="https://www.clearlyso.com" xmlUrl="https://www.clearlyso.com/feed/"/>
+                    <outline text="SSIR Blog" type="rss" htmlUrl="https://ssir.org/articles/" xmlUrl="http://ssir.org/opinion/rss/"/>
+                    <outline text="Ashoka" type="rss" htmlUrl="https://www.forbes.com/sites/ashoka/" xmlUrl="http://www.forbes.com/sites/ashoka/feed/"/>
+                    <outline text="Social enterprise | The Guardian" type="rss" htmlUrl="https://www.theguardian.com/sustainable-business/social-enterprise" xmlUrl="https://www.theguardian.com/sustainable-business/social-enterprise/rss"/>
+                </outline>
+                <outline text="Social Justice News">
+                    <outline text="BuzzFeed  - Social Justice" type="rss" htmlUrl="https://www.buzzfeed.com/tag/social-justice" xmlUrl="https://www.buzzfeed.com/tag/social_justice.xml"/>
+                    <outline text="ABC News - Social Justice" type="rss" htmlUrl="http://abcnews.go.com/topics/" xmlUrl="http://abcnews.go.com/topics/urss?pageid=682977"/>
+                    <outline text="Huffington Post - Social Justice" type="rss" htmlUrl="http://www.huffingtonpost.com/tag/social-justice" xmlUrl="http://www.huffingtonpost.com/news/social-justice/feed//"/>
+                    <outline text="Global Voices" type="rss" htmlUrl="https://globalvoices.org" xmlUrl="https://globalvoices.org/feed/"/>
+                    <outline text="MIT News - Social justice" type="rss" htmlUrl="https://news.mit.edu/rss/topic/social-justice" xmlUrl="http://news.mit.edu/rss/topic/social-justice"/>
+                    <outline text="Equal Times - News" type="rss" htmlUrl="https://www.equaltimes.org/" xmlUrl="http://www.equaltimes.org/spip.php?page=backend&amp;id_rubrique=1&amp;lang=en"/>
+                    <outline text="Amnesty International - Human Rights Now" type="rss" htmlUrl="https://blog.amnestyusa.org" xmlUrl="http://blog.amnestyusa.org/feed/"/>
+                    <outline text="Unbound" type="rss" htmlUrl="https://justiceunbound.org" xmlUrl="http://justiceunbound.org/feed/"/>
+                    <outline text="New Internationalist - The people, the ideas, the action in the fight for global justice" type="rss" htmlUrl="http://www.newint.org/" xmlUrl="https://newint.org/rss/index.xml"/>
+                    <outline text="Waging Nonviolence" type="rss" htmlUrl="https://wagingnonviolence.org" xmlUrl="http://wagingnonviolence.org/feed/"/>
+                    <outline text="Fahamu" type="rss" htmlUrl="http://www.fahamu.org" xmlUrl="http://www.fahamu.org/rss.xml"/>
+                    <outline text="The Conversation - Social justice" type="rss" htmlUrl="https://theconversation.com" xmlUrl="https://theconversation.com/au/topics/social-justice-1227/articles.atom"/>
+                    <outline text="Rising Voices" type="rss" htmlUrl="https://rising.globalvoices.org" xmlUrl="https://rising.globalvoices.org/feed/"/>
+                    <outline text="Social Justice Solutions" type="rss" htmlUrl="http://www.socialjusticesolutions.org" xmlUrl="http://www.socialjusticesolutions.org/feed/"/>
+                    <outline text="Global Justice Now" type="rss" htmlUrl="https://www.globaljustice.org.uk" xmlUrl="http://www.globaljustice.org.uk/rss.xml"/>
+                    <outline text="Films For Action" type="rss" htmlUrl="http://www.filmsforaction.org" xmlUrl="http://www.filmsforaction.org/feeds/data.ashx"/>
+                    <outline text="Reclaim Justice Network" type="rss" htmlUrl="https://reclaimjusticenetwork.org.uk" xmlUrl="https://downsizingcriminaljustice.wordpress.com/feed/"/>
+                </outline>
+                <outline text="Governance and Development Feeds">
+                    <outline text="Global Integrity" type="rss" htmlUrl="https://www.globalintegrity.org" xmlUrl="https://www.globalintegrity.org/feed/?post_type=blog"/>
+                    <outline text="Zunia.org - Civil Society" type="rss" htmlUrl="http://zunia.org/" xmlUrl="http://zunia.org/postslist-rss/all?cat=15329"/>
+                    <outline text="GAPortal" type="rss" htmlUrl="http://www.gaportal.org/feeds/all" xmlUrl="http://www.gaportal.org/feeds/all"/>
+                    <outline text="CIVICUS World Alliance for Citizen Participation" type="rss" htmlUrl="http://civicus.org/index.php/en/component/content/?view=featured" xmlUrl="http://civicus.org/index.php/en/?format=feed&amp;amp;type=rss"/>
+                    <outline text="OECD.org - Public governance" type="rss" htmlUrl="http://www.oecd.org" xmlUrl="http://www.oecd.org/governance/index.xml"/>
+                    <outline text="Integrity Action" type="rss" htmlUrl="http://www.integrityaction.org/frontpage" xmlUrl="http://integrityaction.org/rss.xml"/>
+                    <outline text="iied - Participation" type="rss" htmlUrl="http://www.iied.org/" xmlUrl="http://feeds.feedburner.com/IIED-Participation"/>
+                    <outline text="Internews Feed" type="rss" htmlUrl="https://internews.org/" xmlUrl="http://www.internews.org/rss.xml"/>
+                    <outline text="IDS Participation research cluster" type="rss" htmlUrl="http://www.ids.ac.uk/" xmlUrl="http://www.ids.ac.uk/team/participation/view/feedblogsrss"/>
+                    <outline text="IDS Power and Popular Politics research cluster" type="rss" htmlUrl="http://www.ids.ac.uk/" xmlUrl="http://www.ids.ac.uk/team/power-and-popular-politics/view/feedblogsrss"/>
+                    <outline text="Development Leadership Programme News, Events and Opinions" type="rss" htmlUrl="http://www.dlprog.org/" xmlUrl="http://www.dlprog.org/rss.php"/>
+                    <outline text="MattAndrews Blog" type="rss" htmlUrl="https://matthewandrews.typepad.com/mattandrews/" xmlUrl="http://matthewandrews.typepad.com/mattandrews/atom.xml"/>
+                    <outline text="Democratic Progress Institute" type="rss" htmlUrl="https://www.democraticprogress.org" xmlUrl="http://www.democraticprogress.org/category/news/feed/"/>
+                    <outline text="World Bank - Public Sector Governance Publications" type="rss" htmlUrl="http://elibrary.worldbank.org" xmlUrl="http://elibrary.worldbank.org/action/showFeed?type=booktoc&amp;feed=rss&amp;bc=r53"/>
+                    <outline text="Democracy in Development" type="rss" htmlUrl="https://www.cfr.org/events" xmlUrl="http://feeds.cfr.org/icoleman"/>
+                    <outline text="Eldis Governance" type="rss" htmlUrl="http://www.eldis.org.uk/output/governance/rss" xmlUrl="http://feeds.feedburner.com/eldis-governance"/>
+                    <outline text="Opening Governance Blog - MacArthur Foundation" type="rss" htmlUrl="http://www.opening-governance.org/blog/" xmlUrl="http://www.opening-governance.org/blog?format=RSS"/>
+                    <outline text="Open Society Foundations - Governance &amp; Accountability" type="rss" htmlUrl="https://www.opensocietyfoundations.org/issues/governance-accountability" xmlUrl="https://www.opensocietyfoundations.org/issues/governance-accountability/feed"/>
+                    <outline text="Transparency &amp; Accountability Initiative" type="rss" htmlUrl="https://www.transparency-initiative.org" xmlUrl="http://feeds.feedburner.com/tainitiative/news"/>
+                    <outline text="Zunia.org - Governance" type="rss" htmlUrl="http://zunia.org/" xmlUrl="http://zunia.org/postslist-rss/all?cat=15277"/>
+                    <outline text="Making All Voices Count" type="rss" htmlUrl="http://www.makingallvoicescount.org" xmlUrl="http://www.makingallvoicescount.org/feed/"/>
+                    <outline text="reboot.org » Blog" type="rss" htmlUrl="https://reboot.org" xmlUrl="http://reboot.org/category/ideas/blog/feed/"/>
+                    <outline text="World Bank Governance Feed" type="rss" htmlUrl="http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/0,,menuPK:577938~pagePK:64165265~piPK:64165423~theSitePK:469372,00.html" xmlUrl="http://wbws.worldbank.org/feeds/xml/Governance.xml"/>
+                    <outline text="Effective States &amp; Inclusive Development Blog" type="rss" htmlUrl="http://www.effective-states.org" xmlUrl="http://www.effective-states.org/feed/"/>
+                    <outline text="People, Spaces, Deliberation - Exploring the interactions among public opinion, governance, and the public sphere" type="rss" htmlUrl="http://blogs.worldbank.org/publicsphere/" xmlUrl="http://blogs.worldbank.org/publicsphere/rss.xml"/>
+                    <outline text="Oxfam Policy &amp; Practice - Governance Publications" type="rss" htmlUrl="http://policy-practice.oxfam.org.uk" xmlUrl="http://policy-practice.oxfam.org.uk/rss/publications/subject/governance"/>
+                    <outline text="Politics, Governance and Development" type="rss" htmlUrl="https://politicsgovernancedevelopment.wordpress.com" xmlUrl="https://politicsgovernancedevelopment.wordpress.com/feed/"/>
+                    <outline text="Chatham House: Social Movements" type="rss" htmlUrl="https://www.chathamhouse.org/path/111/feed.xml" xmlUrl="https://www.chathamhouse.org/path/111/feed.xml"/>
+                    <outline text="C2G2" type="rss" htmlUrl="http://blog.soton.ac.uk/c2g2" xmlUrl="http://blog.soton.ac.uk/c2g2/feed/"/>
+                    <outline text="OECD - Governance Library Feed" type="rss" htmlUrl="http://www.oecdilibrary.com" xmlUrl="http://www.oecd-ilibrary.org/rss/content/subject/39/latest?fmt=rss"/>
+                    <outline text="GSDRC - Governance" type="rss" htmlUrl="https://gsdrc.org" xmlUrl="http://www.gsdrc.org/category/governance/feed/"/>
+                    <outline text="Comminit - Democracy &amp; Governance" type="rss" htmlUrl="https://www.comminit.com/democracy-governance/promoted-by-category/348/rss.xml" xmlUrl="http://www.comminit.com/democracy-governance/promoted-by-category/348/rss.xml?tid=All"/>
+                    <outline text="Building State Capability Blog" type="rss" htmlUrl="https://buildingstatecapability.com" xmlUrl="https://buildingstatecapability.com/feed/"/>
+                    <outline text="FeedbackLabs Blog" type="rss" htmlUrl="https://feedbacklabs.org" xmlUrl="http://feedbacklabs.org/feed/"/>
+                    <outline text="OpenGov Hub" type="rss" htmlUrl="http://opengovhub.org/blog/" xmlUrl="http://opengovhub.org/blog?format=RSS"/>
+                    <outline text="U4 Anti-Corruption Resource Centre" type="rss" htmlUrl="http://www.u4.no/" xmlUrl="http://www.u4.no/rss.xml"/>
+                    <outline text="World Bank - Governance for Development Blog" type="rss" htmlUrl="http://blogs.worldbank.org/governance/" xmlUrl="http://blogs.worldbank.org/governance/rss.xml"/>
+                    <outline text="IDS research cluster Governance" type="rss" htmlUrl="http://www.ids.ac.uk/" xmlUrl="http://www.ids.ac.uk/team/governance/view/feedblogsrss"/>
+                </outline>
+                <outline text="Politics + Democracy Global News">
+                    <outline text="openDemocracy" type="rss" htmlUrl="https://www.opendemocracy.net/feed/" xmlUrl="https://www.opendemocracy.net/xml/rss/home/index.xml"/>
+                    <outline text="Transparency International - News Highlights" type="rss" htmlUrl="http://www.transparency.org" xmlUrl="http://www.transparency.org/feed/hlght"/>
+                    <outline text="Open Society Foundations" type="rss" htmlUrl="https://www.opensocietyfoundations.org/rss" xmlUrl="https://www.opensocietyfoundations.org/rss"/>
+                    <outline text="Global Issues - Geopolitics News Headlines" type="rss" htmlUrl="https://www.globalissues.org/news/2020/09/18/26844" xmlUrl="http://www.globalissues.org/news/topic/65/feed"/>
+                    <outline text="World Affairs Journal - Essays" type="rss" htmlUrl="http://www.worldaffairsjournal.org/essay-feed" xmlUrl="http://www.worldaffairsjournal.org/essay-feed.xml"/>
+                    <outline text="Foreign Policy" type="rss" htmlUrl="https://foreignpolicy.com" xmlUrl="http://foreignpolicy.com/feed/"/>
+                    <outline text="Open Government Partnership" type="rss" htmlUrl="http://www.opengovpartnership.org/rss.xml" xmlUrl="http://www.opengovpartnership.org/rss.xml"/>
+                    <outline text="Parliamentarians for Global Action" type="rss" htmlUrl="https://www.pgaction.org" xmlUrl="http://www.pgaction.org/rss.xml"/>
+                    <outline text="Z Magazine" type="rss" htmlUrl="https://zcomm.org" xmlUrl="https://zcomm.org/feed/?post_type=zmagarticle"/>
+                    <outline text="Political Science Quarterly" type="rss" htmlUrl="http://www.psqonline.org/" xmlUrl="http://www.psqonline.org/xml/rss.cfm"/>
+                    <outline text="UNDP - Democracy and Governance News Centre" type="rss" htmlUrl="https://www.undp.org:80/content/undp/en/home/news-centre.html" xmlUrl="http://www.undp.org/content/undp/en/home/presscenter/_jcr_content/rightpar/searchpressreleases.feed"/>
+                    <outline text="The Intercept" type="rss" htmlUrl="https://theintercept.com" xmlUrl="https://theintercept.com/feed/?rss"/>
+                    <outline text="Global Issues -Democracy  News Headlines" type="rss" htmlUrl="https://www.globalissues.org/news/2020/09/18/26844" xmlUrl="http://www.globalissues.org/news/topic/761/feed"/>
+                    <outline text="Democracy Chronicles" type="rss" htmlUrl="https://democracychronicles.org" xmlUrl="https://democracychronicles.com/feed/"/>
+                    <outline text="DemocracyWorks: A Blog of the National Democratic Institute" type="rss" htmlUrl="https://www.demworks.org/" xmlUrl="https://www.demworks.org/rss.xml"/>
+                    <outline text="Democracy Now!" type="rss" htmlUrl="http://www.democracynow.org/" xmlUrl="https://www.democracynow.org/democracynow.rss"/>
+                    <outline text="Carnegie Endowment for International Peace -   Democracy and Rule of Law" type="rss" htmlUrl="https://carnegieendowment.org/rss/" xmlUrl="http://carnegieendowment.org/rss/solr/?fa=feeds&amp;fltr={!raw%20f=program}::101:Democracy%20and%20Rule%20of%20Law"/>
+                    <outline text="Huffington Post - Democracy" type="rss" htmlUrl="http://www.huffingtonpost.com/tag/democracy" xmlUrl="http://www.huffingtonpost.com/news/democracy/feed//"/>
+                    <outline text="Carnegie Endowment for International Peace - Democracy and Governance" type="rss" htmlUrl="https://carnegieendowment.org/rss/" xmlUrl="http://carnegieendowment.org/rss/solr/?fa=feeds&amp;lang=en&amp;fltr={!raw%20f=taxonomyTag}::1279:1286:Democracy%20and%20Governance"/>
+                    <outline text="ZNet Articles" type="rss" htmlUrl="https://zcomm.org" xmlUrl="https://zcomm.org/feed/?post_type=znetarticle"/>
+                    <outline text="Economist - World Politics" type="rss" htmlUrl="http://www.economist.com/topics/world-politics" xmlUrl="http://www.economist.com/topics/world-politics/index.xml"/>
+                    <outline text="CFR.org" type="rss" htmlUrl="https://www.cfr.org/events" xmlUrl="http://feeds.cfr.org/cfr_main"/>
+                    <outline text="Sunlight Foundation" type="rss" htmlUrl="https://sunlightfoundation.com" xmlUrl="https://sunlightfoundation.com/blog/feed/"/>
+                    <outline text="UN News Centre - Top Stories" type="rss" htmlUrl="https://news.un.org/en/" xmlUrl="http://www.un.org/apps/news/rss/rss_top.asp"/>
+                    <outline text="DemocracySpot" type="rss" htmlUrl="https://democracyspot.net" xmlUrl="https://democracyspot.net/feed/"/>
+                </outline>
+                <outline text="Politics + Democracy Regional News">
+                    <outline text="Huffington Post - U.S. Politics" type="rss" htmlUrl="https://www.huffpost.com/news/politics" xmlUrl="http://www.huffingtonpost.com/feeds/verticals/politics/index.xml"/>
+                    <outline text="PULSAMERICA" type="rss" htmlUrl="http://pulsamerica.co.uk" xmlUrl="http://www.pulsamerica.co.uk/feed/"/>
+                    <outline text="Economist - European Politics" type="rss" htmlUrl="http://www.economist.com/topics/european-politics" xmlUrl="http://www.economist.com/topics/european-politics/index.xml"/>
+                    <outline text="Economist - Asia-Pacific Politics" type="rss" htmlUrl="http://www.economist.com/topics/asia-pacific-politics" xmlUrl="http://www.economist.com/topics/asia-pacific-politics/index.xml"/>
+                    <outline text="AllAfrica News: Governance" type="rss" htmlUrl="https://allafrica.com/governance/" xmlUrl="http://allafrica.com/tools/headlines/rdf/governance/headlines.rdf"/>
+                    <outline text="EUobserver" type="rss" htmlUrl="https://euobserver.com" xmlUrl="https://xml.euobserver.com/rss.xml"/>
+                    <outline text="The Diplomat - Asia Politics" type="rss" htmlUrl="https://thediplomat.com" xmlUrl="http://thediplomat.com/feed/"/>
+                    <outline text="Asia Sentinel" type="rss" htmlUrl="https://www.asiasentinel.com" xmlUrl="http://www.asiasentinel.com/feed/"/>
+                    <outline text="The Parliament Magazine" type="rss" htmlUrl="https://www.theparliamentmagazine.eu/sections/news" xmlUrl="https://www.theparliamentmagazine.eu/articles/news/rss.xml"/>
+                    <outline text="This is Africa - Policy" type="rss" htmlUrl="http://www.thisisafricaonline.com/Policy" xmlUrl="http://www.thisisafricaonline.com/layout/set/rss/Policy"/>
+                    <outline text="Upside Down World - Latin American Politics" type="rss" htmlUrl="http://upsidedownworld.org" xmlUrl="http://upsidedownworld.org/feed/"/>
+                    <outline text="Economist - U.S. Politics" type="rss" htmlUrl="http://www.economist.com/topics/american-politics" xmlUrl="http://www.economist.com/topics/american-politics/index.xml"/>
+                    <outline text="Economist - African Politics" type="rss" htmlUrl="http://www.economist.com/topics/african-politics" xmlUrl="http://www.economist.com/topics/african-politics/index.xml"/>
+                    <outline text="African Arguments" type="rss" htmlUrl="https://africanarguments.org" xmlUrl="http://africanarguments.org/feed/"/>
+                    <outline text="Economist - Latin American Politics" type="rss" htmlUrl="http://www.economist.com/topics/latin-american-politics" xmlUrl="http://www.economist.com/topics/latin-american-politics/index.xml"/>
+                    <outline text="The Africa Report - Latest" type="rss" htmlUrl="http://www.theafricareport.com/" xmlUrl="http://feeds.feedburner.com/tar-home"/>
+                    <outline text="The European Sting" type="rss" htmlUrl="https://europeansting.com" xmlUrl="https://europeansting.com/feed/"/>
+                    <outline text="East Asia Forum" type="rss" htmlUrl="https://www.eastasiaforum.org" xmlUrl="http://www.eastasiaforum.org/feed/"/>
+                    <outline text="The Guardian | US politics" type="rss" htmlUrl="https://www.theguardian.com/us-news/us-politics" xmlUrl="https://www.theguardian.com/us-news/us-politics/rss"/>
+                    <outline text="FT - Americas Politics &amp; Policy" type="rss" htmlUrl="https://www.ft.com/stream/d065b0cc-0b23-4d37-80a1-eee6aef95d41" xmlUrl="https://www.ft.com/world/americas/politics?format=rss"/>
+                </outline>
+                <outline text="Alternative News and Media Sources">
+                    <outline text="Amnesty International UK | Press Releases" type="rss" htmlUrl="https://www.amnesty.org.uk/" xmlUrl="http://www.amnesty.org.uk/press-releases/feed"/>
+                    <outline text="CorpWatch" type="rss" htmlUrl="http://www.corpwatch.org/" xmlUrl="http://www.corpwatch.org/rssfeed.php"/>
+                    <outline text="Internation Consortium of Investigative Journalists - The Global Muckraker" type="rss" htmlUrl="https://www.icij.org" xmlUrl="http://feeds.feedburner.com/GlobalMuckraker"/>
+                    <outline text="Displaying items by tag: Blogs" type="rss" htmlUrl="https://spinwatch.org" xmlUrl="http://www.spinwatch.org/index.php/blog?format=feed"/>
+                    <outline text="Peace News RSS" type="rss" htmlUrl="https://peacenews.info/rss/main" xmlUrl="http://peacenews.info/rss/main"/>
+                    <outline text="Upside Down World" type="rss" htmlUrl="http://upsidedownworld.org/main/component/content/frontpage" xmlUrl="http://upsidedownworld.org/main/"/>
+                    <outline text="openDemocracy" type="rss" htmlUrl="https://www.opendemocracy.net/feed/" xmlUrl="http://feeds.feedburner.com/opendemocracy"/>
+                    <outline text="A World For The Future" type="rss" htmlUrl="http://www.aworldforthefuture.com" xmlUrl="http://aworldforthefuture.com/feed/"/>
+                    <outline text="Humanosphere" type="rss" htmlUrl="http://www.humanosphere.org" xmlUrl="http://feeds.feedburner.com/kplu/sIXa"/>
+                    <outline text="Global Research" type="rss" htmlUrl="https://www.globalresearch.ca" xmlUrl="http://www.globalresearch.ca/feed"/>
+                    <outline text="Internews: Local Voices, Global Change" type="rss" htmlUrl="https://internews.org/" xmlUrl="https://internews.org/rss.xml"/>
+                    <outline text="ThinkProgress" type="rss" htmlUrl="http://thinkprogress.org" xmlUrl="https://thinkprogress.org/feed/"/>
+                    <outline text="Global Issues" type="rss" htmlUrl="https://www.globalissues.org" xmlUrl="http://www.globalissues.org/whatsnew/whatsnew.xml"/>
+                    <outline text="ICIJ Projects" type="rss" htmlUrl="https://www.icij.org" xmlUrl="https://www.icij.org/feeds/rss/projects.xml"/>
+                    <outline text="Bilaterals - Everything That's Not Happening in the WTO" type="rss" htmlUrl="https://www.bilaterals.org/" xmlUrl="http://www.bilaterals.org/spip.php?page=backend-all"/>
+                    <outline text="Environmental News Network" type="rss" htmlUrl="http://www.enn.com/topics/top_stories" xmlUrl="http://feeds2.feedburner.com/EnvironmentalNewsNetwork"/>
+                    <outline text="Common Dreams" type="rss" htmlUrl="https://www.commondreams.org/rss.xml" xmlUrl="http://www.commondreams.org/rss.xml"/>
+                    <outline text="The Progressive" type="rss" htmlUrl="http://www.progressive.org" xmlUrl="http://www.progressive.org/rss.xml"/>
+                    <outline text="The Center for Public Integrity Latest Stories" type="rss" htmlUrl="http://feedproxy.google.com/~r/publici_rss/~3/vJGh9MDxai8/images-migrant-throngs-are-real-so-are-individual-life-or-death-stories" xmlUrl="http://feeds.feedburner.com/publici_rss"/>
+                    <outline text="Global Policy Journal -  Articles" type="rss" htmlUrl="http://www.globalpolicyjournal.com/articles/browse/type/all" xmlUrl="http://feeds.feedburner.com/GlobalPolicyJournal-AllArticles"/>
+                    <outline text="VJ Movement latest videos, cartoons and pitches" type="rss" htmlUrl="http://www.vjmovement.comfeeds/rss" xmlUrl="https://www.youtube.com/user/TheVJMovement"/>
+                    <outline text="Feminist Majority Foundation BlogFeminist Newswire | Feminist Majority Foundation Blog" type="rss" htmlUrl="https://feminist.org" xmlUrl="http://feeds.feedburner.com/FeministDailyNews"/>
+                    <outline text="OtherWords" type="rss" htmlUrl="http://otherwords.org" xmlUrl="http://otherwords.org/feed/"/>
+                    <outline text="Project Syndicate RSS-Feed" type="rss" htmlUrl="https://www.project-syndicate.org/rss" xmlUrl="https://www.project-syndicate.org/rss"/>
+                </outline>
+                <outline text="Positive and Activism News">
+                    <outline text="Aljazeera - The Stream - Stories RSS Feed" type="rss" htmlUrl="http://stream.aljazeera.com/stories/feed/rss.xml" xmlUrl="http://stream.aljazeera.com/stories/feed/rss.xml"/>
+                    <outline text="Positive News" type="rss" htmlUrl="http://positivenews.org.uk" xmlUrl="http://positivenews.org.uk/feed/"/>
+                    <outline text="DailyGood.org" type="rss" htmlUrl="http://www.dailygood.org/" xmlUrl="http://www.servicespace.org/rss/sol.php"/>
+                    <outline text="Good News - The Huffington Post" type="rss" htmlUrl="https://www.huffpost.com/impact/topic/good-news" xmlUrl="http://www.huffingtonpost.com/feeds/verticals/good-news/index.xml"/>
+                    <outline text="Activist Post" type="rss" htmlUrl="https://www.activistpost.com" xmlUrl="http://feeds.feedburner.com/activistpost"/>
+                    <outline text="The Good News Network" type="rss" htmlUrl="https://www.goodnewsnetwork.org" xmlUrl="http://www.goodnewsnetwork.org/feed/"/>
+                    <outline text="True Activist" type="rss" htmlUrl="https://s24990.pcdn.co" xmlUrl="http://feeds.feedburner.com/TrueActivist"/>
+                    <outline text="Activism on Huffington Post" type="rss" htmlUrl="http://www.huffingtonpost.com/tag/activism" xmlUrl="http://www.huffingtonpost.com/news/activism/feed//"/>
+                    <outline text="YES! Magazine" type="rss" htmlUrl="https://www.yesmagazine.org" xmlUrl="http://feeds.feedburner.com/yes/most-recent-articles"/>
+                    <outline text="The Positive" type="rss" htmlUrl="https://thejupital.com" xmlUrl="http://thejupital.com/feed/"/>
+                    <outline text="Activism | The Guardian" type="rss" htmlUrl="https://www.theguardian.com/environment/activism" xmlUrl="https://www.theguardian.com/environment/activism/rss"/>
+                    <outline text="Amnesty International - Good news" type="rss" htmlUrl="http://www.amnesty.org/en/good-news-list" xmlUrl="https://www.amnesty.org/en/good-news-list/feed/"/>
+                </outline>
+                <outline text="Human Rights Feeds">
+                    <outline text="Protection International" type="rss" htmlUrl="https://protectioninternational.org/" xmlUrl="https://protectioninternational.org/feed/atom/"/>
+                    <outline text="Global Voices - Human Rights" type="rss" htmlUrl="https://globalvoices.org" xmlUrl="https://globalvoices.org/-/topics/human-rights/feed/"/>
+                    <outline text="CESR - Rights Blog" type="rss" htmlUrl="http://cesr.org/" xmlUrl="http://www.cesr.org/rssfeed.php?id=1"/>
+                    <outline text="Amnesty International" type="rss" htmlUrl="https://www.amnesty.org/en/" xmlUrl="https://www.amnesty.org/en/rss/"/>
+                    <outline text="Freedom House" type="rss" htmlUrl="https://freedomhouse.org/news/feed" xmlUrl="http://www.freedomhouse.org/news/feed"/>
+                    <outline text="The Guardian | Human rights" type="rss" htmlUrl="https://www.theguardian.com/law/human-rights" xmlUrl="https://www.theguardian.com/law/human-rights/rss"/>
+                    <outline text="Human Rights House Network News" type="rss" htmlUrl="http://humanrightshouse.org" xmlUrl="http://humanrightshouse.org/noop/rss.php?channel=news"/>
+                    <outline text="FIDH - Worldwide Movement for Human Rights" type="rss" htmlUrl="https://www.fidh.org/" xmlUrl="https://www.fidh.org/spip.php?page=backend&amp;lang=en"/>
+                    <outline text="Alliance Against Modern Slavery - News" type="rss" htmlUrl="http://www.allianceagainstmodernslavery.org/news" xmlUrl="http://allianceagainstmodernslavery.org/rss.xml"/>
+                    <outline text="Human Rights Law Network (HRLN)" type="rss" htmlUrl="http://www.hrln.org/hrln/component/content/frontpage.html" xmlUrl="http://www.hrln.org/hrln/index.php?format=feed&amp;amp;type=rss"/>
+                    <outline text="Asian Human Rights Commission" type="rss" htmlUrl="http://www.humanrights.asia" xmlUrl="http://www.humanrights.asia/search_rss?sort_on=effective&amp;sort_order=reverse&amp;SearchableText=&amp;Title=&amp;created%3Alist%3Adate=1970%2F02%2F01&amp;created_usage=range%3Amin&amp;date_from=&amp;date_to=&amp;portal_type%3Alist=Article&amp;portal_type%3Alist=HungerAlertCase&amp;portal_type%3Alist=HungerAlertGeneral&amp;portal_type%3Alist=HungerAlertUpdate&amp;portal_type%3Alist=OpenLetter&amp;portal_type%3Alist=Paper&amp;portal_type%3Alist=Statement&amp;portal_type%3Alist=UrgentAppealCase&amp;portal_type%3Alist=UrgentAppealGeneral&amp;portal_type%3Alist=UrgentAppealUpdate"/>
+                    <outline text="Human Rights Europe" type="rss" htmlUrl="http://www.humanrightseurope.org" xmlUrl="http://www.humanrightseurope.org/feed/"/>
+                    <outline text="International Justice Mission" type="rss" htmlUrl="http://www.ijm.org" xmlUrl="http://www.ijm.org/rss.xml"/>
+                    <outline text="Center for Economic and Social Rights - Updates" type="rss" htmlUrl="http://cesr.org/" xmlUrl="http://www.cesr.org/rssfeed.php"/>
+                    <outline text="EIN - Human Rights News" type="rss" htmlUrl="http://humanrights.einnews.com/" xmlUrl="http://humanrights.einnews.com/rss/QSpEd2WiOtsBVy3c"/>
+                    <outline text="Global Issues News - Human Rights" type="rss" htmlUrl="https://www.globalissues.org/news/2020/09/17/26842" xmlUrl="http://www.globalissues.org/news/topic/137/feed"/>
+                    <outline text="Inter-American Human Rights Network" type="rss" htmlUrl="http://interamericanhumanrights.org" xmlUrl="http://interamericanhumanrights.org/feed/"/>
+                    <outline text="Refugees International" type="rss" htmlUrl="https://www.refugeesinternational.org/" xmlUrl="https://www.refugeesinternational.org/home?format=RSS"/>
+                    <outline text="La Strada International News Feed" type="rss" htmlUrl="http://lastradainternational.org/feed/rss" xmlUrl="http://lastradainternational.org/feed/rss"/>
+                    <outline text="Protectionline" type="rss" htmlUrl="http://protectionline.org/" xmlUrl="http://protectionline.org/feed/atom/"/>
+                    <outline text="Human Wrongs Watch" type="rss" htmlUrl="https://human-wrongs-watch.net" xmlUrl="https://human-wrongs-watch.net/feed/"/>
+                    <outline text="Huffington Post - Human Rights" type="rss" htmlUrl="http://www.huffingtonpost.com/tag/human-rights" xmlUrl="http://www.huffingtonpost.com/news/human-rights/feed//"/>
+                    <outline text="Global Voices Advocacy" type="rss" htmlUrl="https://advox.globalvoices.org" xmlUrl="https://advox.globalvoices.org/feed/"/>
+                    <outline text="Human Rights Campaign | Blog" type="rss" htmlUrl="http://www.hrc.org/blog/" xmlUrl="http://www.hrc.org/rss"/>
+                    <outline text="UNHCR | The UN Refugee Agency" type="rss" htmlUrl="https://www.unhcr.org" xmlUrl="http://www.unhcr.org/cgi-bin/texis/vtx/page/rss.xml"/>
+                    <outline text="Comminit - Human Rights Policy" type="rss" htmlUrl="https://www.comminit.com/policy-blogs/promoted-by-category/4752/rss.xml" xmlUrl="http://www.comminit.com/policy-blogs/promoted-by-category/4752/rss.xml"/>
+                    <outline text="OMCT Alerts" type="rss" htmlUrl="http://www.omct.org/" xmlUrl="http://www.omct.org/search/?rss=1"/>
+                    <outline text="Office of the United Nations High Commissioner for Human Rights" type="rss" htmlUrl="http://ap.ohchr.org/documents/recentreports.aspx" xmlUrl="http://ap.ohchr.org/Documents/recentreports.aspx"/>
+                    <outline text="IFEX" type="rss" htmlUrl="http://www.ifex.org/" xmlUrl="http://www.ifex.org/all/rss/index.xml"/>
+                    <outline text="IPHR" type="rss" htmlUrl="https://www.iphronline.org" xmlUrl="http://iphronline.org/en/feed"/>
+                    <outline text="Open Society Foundations" type="rss" htmlUrl="https://www.opensocietyfoundations.org/rss" xmlUrl="http://feeds.feedburner.com/OpenSocietyInstituteAndSorosFoundationNetwork"/>
+                    <outline text="Human Rights First" type="rss" htmlUrl="https://www.humanrightsfirst.org/blog" xmlUrl="http://www.humanrightsfirst.org/feed"/>
+                    <outline text="Reporters Without Borders" type="rss" htmlUrl="https://rsf.org/en/rss-feed" xmlUrl="https://rsf.org/en/rss.xml"/>
+                    <outline text="International Justice Resource Center" type="rss" htmlUrl="https://ijrcenter.org" xmlUrl="http://feeds.feedburner.com/myftpupload/gKtm"/>
+                    <outline text="Human Rights Watch" type="rss" htmlUrl="https://www.hrw.org/" xmlUrl="https://www.hrw.org/cgi-bin/rss.cgi?t=news_rss"/>
+                    <outline text="Unitarian Universalist Service Committee" type="rss" htmlUrl="https://www.uusc.org" xmlUrl="http://www.uusc.org/feed/"/>
+                    <outline text="UN News Centre - Human Rights" type="rss" htmlUrl="https://news.un.org/en/" xmlUrl="http://www.un.org/apps/news/rss/rss_humanrights.asp"/>
+                </outline>
+                <outline text="Governance; Democracy + Civil Society for Development Feeds">
+                    <outline text="Oxfam Blogs - From Poverty to Power" type="rss" htmlUrl="https://oxfamblogs.org/fp2p" xmlUrl="http://oxfamblogs.org/fp2p/feed/"/>
+                </outline>
+                <outline text="Climate Change News Feeds">
+                    <outline text="DeSmogBlog" type="rss" htmlUrl="https://www.desmogblog.com/frontpage" xmlUrl="https://www.desmogblog.com/rss.xml"/>
+                    <outline text="The Guardian | Climate change" type="rss" htmlUrl="https://www.theguardian.com/environment/climate-change" xmlUrl="https://www.theguardian.com/environment/climate-change/rss"/>
+                    <outline text="Climate and Development Knowledge NetworkClimate and Development Knowledge Network" type="rss" htmlUrl="https://cdkn.org" xmlUrl="http://cdkn.org/feed/?lang=en_gb"/>
+                    <outline text="Global Issues - Climate Change and Global Warming News Headlines" type="rss" htmlUrl="https://www.globalissues.org/news/2020/09/16/26834" xmlUrl="http://www.globalissues.org/news/topic/178/feed"/>
+                    <outline text="RealClimate" type="rss" htmlUrl="http://www.realclimate.org" xmlUrl="http://www.realclimate.org/index.php/feed/atom/"/>
+                    <outline text="The Huffington Post - Climate Change" type="rss" htmlUrl="http://www.huffingtonpost.com/tag/climate-change" xmlUrl="http://www.huffingtonpost.com/news/climate-change/feed//"/>
+                    <outline text="FT - Climate change" type="rss" htmlUrl="https://www.ft.com/stream/24ad2c58-14fb-4217-b6f7-7ef88ac51375" xmlUrl="https://www.ft.com/topics/themes/Climate_change?format=rss"/>
+                    <outline text="Carnegie Endowment for International Peace - Climate and Energy" type="rss" htmlUrl="https://carnegieendowment.org/rss/" xmlUrl="http://carnegieendowment.org/rss/solr/?fa=feeds&amp;lang=en&amp;fltr={!raw%20f=taxonomyTag}::1279:1291:Climate%20and%20Energy"/>
+                    <outline text="350.org" type="rss" htmlUrl="http://350.org" xmlUrl="http://feeds.feedburner.com/350org"/>
+                    <outline text="UN Climate Change" type="rss" htmlUrl="" xmlUrl="http://www.un.org/climatechange/feed/"/>
+                    <outline text="Climate Desk" type="rss" htmlUrl="" xmlUrl="http://www.climatedesk.org"/>
+                    <outline text="Carbon Brief" type="rss" htmlUrl="https://www.carbonbrief.org" xmlUrl="http://www.carbonbrief.org/feed"/>
+                </outline>
+                <outline text="Energy News Feeds">
+                    <outline text="Renewable Energy News RSS Feed" type="rss" htmlUrl="https://www.renewableenergyworld.com" xmlUrl="http://feeds.feedburner.com/RenewableEnergyNewsRssFeed"/>
+                    <outline text="The Huffington Post - Renewable Energy" type="rss" htmlUrl="http://www.huffingtonpost.com/tag/renewable-energy" xmlUrl="http://www.huffingtonpost.com/news/renewable-energy/feed//"/>
+                    <outline text="Energy Cities" type="rss" htmlUrl="https://energy-cities.eu" xmlUrl="http://www.energy-cities.eu/spip.php?page=rss_articles_english"/>
+                    <outline text="Bloomberg New Energy Finance" type="rss" htmlUrl="https://about.bnef.com" xmlUrl="https://about.bnef.com/feed/"/>
+                    <outline text="FT Energy Weekly Podcast" type="rss" htmlUrl="https://www.ft.com" xmlUrl="http://rss.acast.com/ft-energy-weekly"/>
+                    <outline text="The Guardian | Renewable energy" type="rss" htmlUrl="https://www.theguardian.com/environment/renewableenergy" xmlUrl="https://www.theguardian.com/environment/renewableenergy/rss"/>
+                    <outline text="FT - Energy" type="rss" htmlUrl="https://www.ft.com/stream/5216ff2e-a6ed-42b2-a613-109fc6491ba2" xmlUrl="https://www.ft.com/companies/energy?format=rss"/>
+                </outline>
+                <outline text="Environment News Feeds">
+                    <outline text="The Huffington Post - Green" type="rss" htmlUrl="https://www.huffpost.com/impact/green" xmlUrl="http://www.huffingtonpost.com/feeds/verticals/green/index.xml"/>
+                    <outline text="The Understory" type="rss" htmlUrl="http://www.the-understory.com" xmlUrl="http://www.the-understory.com/feed/"/>
+                    <outline text="The Ecologist" type="rss" htmlUrl="https://theecologist.org/" xmlUrl="http://www.theecologist.org/index.rss"/>
+                    <outline text="The Guardian | Environment" type="rss" htmlUrl="https://www.theguardian.com/uk/environment" xmlUrl="https://www.theguardian.com/uk/environment/rss"/>
+                    <outline text="EcoWatch" type="rss" htmlUrl="https://www.ecowatch.com/" xmlUrl="http://www.ecowatch.com/feeds/feed.rss"/>
+                    <outline text="New Scientist - Earth" type="rss" htmlUrl="https://www.newscientist.com/subject/earth/feed/content/" xmlUrl="http://feeds.newscientist.com/environment"/>
+                    <outline text="The Earth Times" type="rss" htmlUrl="http://www.earthtimes.org" xmlUrl="http://feeds.earthtimes.org/earthtimes"/>
+                    <outline text="IISD" type="rss" htmlUrl="http://www.iisd.org" xmlUrl="http://www.iisd.org/?q=rss.xml"/>
+                    <outline text="Environmental News Network" type="rss" htmlUrl="http://www.enn.com/topics/top_stories" xmlUrl="http://feeds.feedburner.com/EnvironmentalNewsNetwork"/>
+                    <outline text="Project Syndicate - Environment &amp; Sustainability" type="rss" htmlUrl="https://www.project-syndicate.org/rss/environment-sustainability" xmlUrl="https://www.project-syndicate.org/rss/environment-sustainability"/>
+                    <outline text="Environmental News Service" type="rss" htmlUrl="http://ens-newswire.com" xmlUrl="http://ens-newswire.com/feed/"/>
+                    <outline text="World Resources Institute" type="rss" htmlUrl="https://www.wri.org" xmlUrl="http://www.wri.org/rss.xml"/>
+                    <outline text="Indigenous Environmental Network" type="rss" htmlUrl="https://www.ienearth.org" xmlUrl="http://www.ienearth.org/feed/"/>
+                    <outline text="National Geographic News: Environment" type="rss" htmlUrl="http://news.nationalgeographic.com/" xmlUrl="http://feeds.nationalgeographic.com/ng/News/News_Environment"/>
+                    <outline text="Mother Jones | Environment" type="rss" htmlUrl="http://www.motherjones.com/politics/feed" xmlUrl="http://feeds.feedburner.com/motherjones/Environment"/>
+                    <outline text="Global Issues - Environmental Issues News Headlines" type="rss" htmlUrl="https://www.globalissues.org/news/2020/09/16/26834" xmlUrl="http://www.globalissues.org/news/topic/168/feed"/>
+                    <outline text="Environmental Research Web" type="rss" htmlUrl="http://environmentalresearchweb.org/channel/news" xmlUrl="http://feeds.feedburner.com/ERWNews"/>
+                    <outline text="WWF - Environmental News" type="rss" htmlUrl="http://wwf.panda.org" xmlUrl="http://www.panda.org/rss/news.cfm?Press%20Office"/>
+                    <outline text="Grist" type="rss" htmlUrl="https://grist.org" xmlUrl="http://grist.org/feed/"/>
+                    <outline text="FT - Science &amp; Environment" type="rss" htmlUrl="https://www.ft.com/stream/8d4527a2-461b-4b5d-a0d8-37b48049d1d5" xmlUrl="https://www.ft.com/science-environment?format=rss"/>
+                    <outline text="Rainforest Action Network" type="rss" htmlUrl="http://ran.org/" xmlUrl="http://www.ran.org/rss.xml"/>
+                    <outline text="Earthrise - HD" type="rss" htmlUrl="https://www.aljazeera.com/programmes/earthrise/" xmlUrl="http://feeds.aljazeera.net/podcasts/earthriseHD"/>
+                    <outline text="IUCN" type="rss" htmlUrl="http://cms.iucn.org" xmlUrl="http://cms.iucn.org/rss.xml?85CDEA01-1E0B-4DBE-4096515A8FBB13B4="/>
+                    <outline text="Friends of the Earth International" type="rss" htmlUrl="https://www.foei.org" xmlUrl="http://www.foei.org/feed"/>
+                    <outline text="Guardian Environment Network" type="rss" htmlUrl="https://www.theguardian.com/environment/series/guardian-environment-network" xmlUrl="https://www.theguardian.com/environment/series/guardian-environment-network/rss"/>
+                    <outline text="Society of Environmental Journalists" type="rss" htmlUrl="https://www.sej.org/rss_short_list" xmlUrl="http://www.sej.org/rss_short_list"/>
+                    <outline text="NPR: Environment" type="rss" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1025" xmlUrl="http://www.npr.org/rss/rss.php?id=1025"/>
+                    <outline text="EnviroNews" type="rss" htmlUrl="http://www.environews.tv" xmlUrl="http://www.environews.tv/feed/"/>
+                    <outline text="Global Justice Ecology Project" type="rss" htmlUrl="https://globaljusticeecology.org" xmlUrl="http://globaljusticeecology.org/feed/"/>
+                    <outline text="International Institute for Environment and Development" type="rss" htmlUrl="https://www.iied.org/" xmlUrl="http://www.iied.org/rss.xml"/>
+                    <outline text="Earth Island" type="rss" htmlUrl="http://www.earthisland.org/journal/index.php/elist/" xmlUrl="http://www.earthisland.org/journal/index.php/elist/eListRSS/"/>
+                    <outline text="Yale Environment 360" type="rss" htmlUrl="https://e360.yale.edu/" xmlUrl="http://feeds.feedburner.com/YaleEnvironment360"/>
+                    <outline text="Greenpeace news" type="rss" htmlUrl="http://www.greenpeace.org/" xmlUrl="http://feeds.feedburner.com/GreenpeaceNews"/>
+                    <outline text="Ecology Global Network" type="rss" htmlUrl="http://www.ecology.com" xmlUrl="http://feeds.feedburner.com/EcologyGlobalNetwork"/>
+                </outline>
+                <outline text="Sustainability and Green Economy News Feeds">
+                    <outline text="Worldwatch Institute" type="rss" htmlUrl="http://www.worldwatch.org" xmlUrl="http://www.worldwatch.org/node/feed"/>
+                    <outline text="CleanTechnica" type="rss" htmlUrl="http://cleantechnica.com" xmlUrl="http://feeds.importantmedia.org/IM-cleantechnica"/>
+                    <outline text="REScoop.eu" type="rss" htmlUrl="https://rescoop.eu" xmlUrl="https://rescoop.eu/rss.xml"/>
+                    <outline text="The Energy Collective" type="rss" htmlUrl="https://energycentral.com/c/ecn" xmlUrl="http://feeds.feedburner.com/theenergycollective_allposts"/>
+                    <outline text="ICLEI Global News feed" type="rss" htmlUrl="http://www.iclei.org/" xmlUrl="http://www.iclei.org/rss.xml"/>
+                    <outline text="Sustainable Cities Collective" type="rss" htmlUrl="http://www.sustainablecitiescollective.com/rss" xmlUrl="http://www.sustainablecitiescollective.com/rss"/>
+                    <outline text="IIED - Green economy" type="rss" htmlUrl="http://www.iied.org/" xmlUrl="http://feeds.feedburner.com/IIED-Green-economy"/>
+                    <outline text="Business Green" type="rss" htmlUrl="https://www.businessgreen.com/" xmlUrl="http://www.businessgreen.com/feeds/rss"/>
+                    <outline text="Greentech Media: Headlines" type="rss" htmlUrl="https://www.greentechmedia.com/articles/" xmlUrl="http://feeds.feedburner.com/greentechmedia/news"/>
+                    <outline text="Schumacher Center For New Economics" type="rss" htmlUrl="http://www.centerforneweconomics.org" xmlUrl="http://www.centerforneweconomics.org/rss.xml"/>
+                    <outline text="GreenBiz" type="rss" htmlUrl="https://www.greenbiz.com/" xmlUrl="http://feeds.feedburner.com/Greenbuzz"/>
+                    <outline text="Worldwatch Institute Blog" type="rss" htmlUrl="http://blogs.worldwatch.org" xmlUrl="http://blogs.worldwatch.org/feed/"/>
+                    <outline text="Green economy | The Guardian" type="rss" htmlUrl="https://www.theguardian.com/environment/green-economy" xmlUrl="https://www.theguardian.com/environment/green-economy/rss"/>
+                    <outline text="Green Economy Group" type="rss" htmlUrl="https://greeneconomygroup.com" xmlUrl="https://greeneconomygroup.com/feed/"/>
+                    <outline text="WBCSD President" type="rss" htmlUrl="http://president.wbcsd.org/" xmlUrl="http://president.wbcsd.org/atom.xml"/>
+                    <outline text="Forum for the Future" type="rss" htmlUrl="https://www.forumforthefuture.org/blogs/all" xmlUrl="https://www.forumforthefuture.org/rss/blogs/all"/>
+                    <outline text="Club of Rome" type="rss" htmlUrl="https://clubofrome.org" xmlUrl="http://www.clubofrome.org/feed/"/>
+                    <outline text="Kate Raworth" type="rss" htmlUrl="https://www.kateraworth.com" xmlUrl="https://www.kateraworth.com/feed/"/>
+                    <outline text="The Story of Stuff Project - Blog" type="rss" htmlUrl="https://www.storyofstuff.org" xmlUrl="http://www.storyofstuff.org/blog/?feed=rss2"/>
+                    <outline text="Circular economy | The Guardian" type="rss" htmlUrl="https://www.theguardian.com/sustainable-business/series/circular-economy" xmlUrl="https://www.theguardian.com/sustainable-business/series/circular-economy/rss"/>
+                    <outline text="Circulate News" type="rss" htmlUrl="http://circulatenews.org" xmlUrl="http://circulatenews.org/feed/"/>
+                </outline>
+                <outline text="Education + Development">
+                    <outline text="INEE - Blog" type="rss" htmlUrl="http://www.ineesite.org/blog/" xmlUrl="http://www.ineesite.org/blog/rss"/>
+                    <outline text="Global Partnership for Education" type="rss" htmlUrl="https://www.globalpartnership.org/" xmlUrl="http://www.globalpartnership.org/rss.xml"/>
+                    <outline text="Global Education First Initiative" type="rss" htmlUrl="http://www.globaleducationfirst.org" xmlUrl="http://www.unesco.org/new/en/education/global-education-first-initiative-gefi//allrecentstories.xml"/>
+                    <outline text="ACEI - News and Publications" type="rss" htmlUrl="https://ceinternational1892.org" xmlUrl="http://www.acei.org/news/feed"/>
+                    <outline text="International Bureau of Education" type="rss" htmlUrl="http://www.ibe.unesco.org/en/unesco-ibe-rss" xmlUrl="http://www.ibe.unesco.org/en/news.rss"/>
+                    <outline text="World Bank Education Research" type="rss" htmlUrl="http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/0,,menuPK:577938~pagePK:64165265~piPK:64165423~theSitePK:469372,00.html" xmlUrl="ttp://blogs.worldbank.org/education/rss.xml"/>
+                    <outline text="IIEP UNESCO" type="rss" htmlUrl="http://www.iiep.unesco.org" xmlUrl="http://www.iiep.unesco.org/en/rss.xml"/>
+                    <outline text="Brookings Centers - Center for Universal Education" type="rss" htmlUrl="https://www.brookings.edu" xmlUrl="http://webfeeds.brookings.edu/brookingsrss/centers/universaleducation&amp;x=1"/>
+                    <outline text="EENET - Enabling Education Network" type="rss" htmlUrl="https://eenetglobal.wordpress.com" xmlUrl="https://eenetglobal.wordpress.com/feed/"/>
+                    <outline text="Universal primary education | The Guardian" type="rss" htmlUrl="https://www.theguardian.com/global-development/universal-primary-education" xmlUrl="https://www.theguardian.com/global-development/universal-primary-education/rss"/>
+                    <outline text="Education Cluster » News" type="rss" htmlUrl="http://educationcluster.net" xmlUrl="http://educationcluster.net/category/news/feed/"/>
+                    <outline text="OECD Educational Research and Innovation - Books" type="rss" htmlUrl="http://www.oecdilibrary.com" xmlUrl="http://www.oecd-ilibrary.org/rss/content/serial/20769679/latest?fmt=rss"/>
+                    <outline text="Heinrich Boll Stiftung - Schools &amp; Education" type="rss" htmlUrl="https://www.boell.de/en/rss.xml/6576" xmlUrl="https://www.boell.de/en/feed/6576/rss.xml"/>
+                    <outline text="OECD Education Working Papers" type="rss" htmlUrl="http://www.oecdilibrary.com" xmlUrl="http://www.oecd-ilibrary.org/rss/content/workingpaperseries/19939019/latest;jsessionid=56l5uvw0jleb.x-oecd-live-03?fmt=rss"/>
+                    <outline text="ActionAid - Education Rights" type="rss" htmlUrl="http://actionaid.org/taxonomy/term/331/0" xmlUrl="http://actionaid.org/taxonomy/term/331/0/feed"/>
+                    <outline text="Education International" type="rss" htmlUrl="http://www.ei-ie.org/en/" xmlUrl="http://www.ei-ie.org/en/rss/latestnews/en.rss"/>
+                    <outline text="Zunia.org - Education" type="rss" htmlUrl="http://zunia.org/" xmlUrl="http://zunia.org/postslist-rss/all?cat=15308"/>
+                    <outline text="OECD - Education Today Blog" type="rss" htmlUrl="http://oecdeducationtoday.blogspot.com/" xmlUrl="http://oecdeducationtoday.blogspot.com/feeds/posts/default"/>
+                    <outline text="IIEP Publications" type="rss" htmlUrl="http://publications.iiep.unesco.org/" xmlUrl="http://publications.iiep.unesco.org/index.php?route=feed/latest_products_rss&amp;currency=EUR"/>
+                </outline>
+                <outline text="Education News Feeds">
+                    <outline text="Education in Crisis" type="rss" htmlUrl="https://www.educationincrisis.net" xmlUrl="https://www.educationincrisis.net/index.php?option=com_k2&amp;view=itemlist&amp;layout=category&amp;format=feed&amp;moduleID=164"/>
+                    <outline text="Hack Education" type="rss" htmlUrl="http://hackeducation.com/" xmlUrl="http://hackeducation.com/feed.xml"/>
+                    <outline text="Lisa Nielsen: The Innovative Educator" type="rss" htmlUrl="http://theinnovativeeducator.blogspot.com/" xmlUrl="http://theinnovativeeducator.blogspot.com/feeds/posts/default"/>
+                    <outline text="Education : NPR" type="rss" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1013" xmlUrl="http://www.npr.org/rss/rss.php?id=1013"/>
+                    <outline text="Edutopia RSS" type="rss" htmlUrl="https://www.edutopia.org/edutopia_rss.xml" xmlUrl="http://feeds.feedburner.com/EdutopiaNewContent"/>
+                    <outline text="Association for Childhood Education International" type="rss" htmlUrl="http://www.acei.org/" xmlUrl="http://www.acei.org/home?format=RSS"/>
+                    <outline text="NCEE" type="rss" htmlUrl="http://ncee.org" xmlUrl="http://ncee.org/feed/"/>
+                    <outline text="Center for Education Innovations" type="rss" htmlUrl="http://educationinnovations.org/recent-content" xmlUrl="http://www.educationinnovations.org/recent-content.xml"/>
+                    <outline text="Popular Education Now!" type="rss" htmlUrl="https://populareducationnow.wordpress.com" xmlUrl="https://populareducationnow.wordpress.com/feed/"/>
+                    <outline text="NYT &gt; Education" type="rss" htmlUrl="https://www.nytimes.com/section/education" xmlUrl="http://rss.nytimes.com/services/xml/rss/nyt/Education.xml"/>
+                    <outline text="iLearn Technology" type="rss" htmlUrl="http://ilearntechnology.com/wordpress" xmlUrl="http://ilearntechnology.com/?feed=rss2"/>
+                    <outline text="Association for Mindfulness in Education" type="rss" htmlUrl="http://www.mindfuleducation.org" xmlUrl="http://www.mindfuleducation.org/feed/"/>
+                    <outline text="UNESCO" type="rss" htmlUrl="https://en.unesco.org/" xmlUrl="https://en.unesco.org/rss.xml"/>
+                    <outline text="Right to Education Project" type="rss" htmlUrl="https://www.right-to-education.org/news" xmlUrl="http://www.right-to-education.org/news/rss.xml"/>
+                    <outline text="Institute of International Education" type="rss" htmlUrl="http://www.iie.org/en/Who-We-Are/News-and-Events/Press-Center/Press-Releases" xmlUrl="http://www.iie.org/RSS/News-RSS"/>
+                    <outline text="Dangerously Irrelevant | @mcleod" type="rss" htmlUrl="http://dangerouslyirrelevant.org" xmlUrl="http://feeds.feedburner.com/dangerouslyirrelevant"/>
+                    <outline text="European Association for International Education" type="rss" htmlUrl="http://www.eaie.org/blog" xmlUrl="http://www.eaie.org/blog/feed/"/>
+                </outline>
+                <outline text="Culture News Feeds">
+                    <outline text="Global Voices - Arts and Culture" type="rss" htmlUrl="https://globalvoices.org" xmlUrl="https://globalvoices.org/-/topics/arts-culture/feed/"/>
+                    <outline text="Center for Artistic Activism" type="rss" htmlUrl="https://c4aa.org" xmlUrl="https://artisticactivism.org/feed/"/>
+                    <outline text="World Heritage Foundation" type="rss" htmlUrl="http://www.world-heritage-watch.org/index.php/en/" xmlUrl="http://www.world-heritage-watch.org/index.php/en/?format=feed&amp;amp;type=rss"/>
+                    <outline text="ASEF culture360 - Culture News" type="rss" htmlUrl="http://culture360.asef.org" xmlUrl="http://culture360.asef.org/category/news/feed/"/>
+                    <outline text="PEN International" type="rss" htmlUrl="http://www.pen-international.org" xmlUrl="http://www.pen-international.org/feed/"/>
+                    <outline text="The Economist - Culture and Lifestyle" type="rss" htmlUrl="http://www.economist.com/topics/culture-and-lifestyle" xmlUrl="http://www.economist.com/topics/culture-and-lifestyle/index.xml"/>
+                    <outline text="Huffington Post - Culture" type="rss" htmlUrl="http://www.huffingtonpost.com/tag/culture" xmlUrl="http://www.huffingtonpost.com/news/culture/feed//"/>
+                    <outline text="ScienceDaily - Arts and Culture News" type="rss" htmlUrl="https://www.sciencedaily.com/news/science_society/arts_and_culture/" xmlUrl="https://rss.sciencedaily.com/science_society/arts_and_culture.xml"/>
+                    <outline text="Open Culture" type="rss" htmlUrl="http://www.openculture.com" xmlUrl="http://feeds.feedburner.com/OpenCulture"/>
+                    <outline text="Goethe Culture and Climate Change" type="rss" htmlUrl="http://www.goethe.de/ges/umw/prj/kuk/enindex.htm" xmlUrl="http://rss.goethe.de/?lang=en&amp;thema=kuk&amp;land=kuk&amp;typ=a&amp;n=10&amp;title=goethe.de/climate%20Culture%20and%20Climate%20Change"/>
+                    <outline text="The Guardian | Culture" type="rss" htmlUrl="https://www.theguardian.com/uk/culture" xmlUrl="https://www.theguardian.com/uk/culture/rss"/>
+                    <outline text="The Pop Culture Salvage Expeditions Podcast" type="rss" htmlUrl="https://c4aa.org" xmlUrl="https://artisticactivism.org/feed/podcast/"/>
+                </outline>
+                <outline text="News Feeds for Activists and Global Citizens">
+                    <outline text="Community Commons" type="rss" htmlUrl="https://www.communitycommons.org" xmlUrl="https://www.communitycommons.org/feed/"/>
+                    <outline text="The Advocates Post" type="rss" htmlUrl="https://theadvocatespost.org" xmlUrl="https://theadvocatespost.org/feed/"/>
+                    <outline text="Movements.org Blog" type="rss" htmlUrl="http://blog.movements.org" xmlUrl="http://blog.movements.org/feed/"/>
+                    <outline text="PopularResistance.Org" type="rss" htmlUrl="https://popularresistance.org" xmlUrl="https://popularresistance.org/feed/"/>
+                    <outline text="Global Citizen" type="rss" htmlUrl="https://www.globalcitizen.org/content/feed" xmlUrl="https://www.globalcitizen.org/content/feed/"/>
+                    <outline text="The Ruckus Society" type="rss" htmlUrl="https://ruckus.org" xmlUrl="http://ruckus.org/feed/"/>
+                    <outline text="War on Want - News and Events" type="rss" htmlUrl="https://waronwant.org/news-and-events?&amp;themes=All" xmlUrl="http://waronwant.org/news.xml"/>
+                    <outline text="Global Voices - Digital Activism" type="rss" htmlUrl="https://globalvoices.org" xmlUrl="https://globalvoices.org/-/topics/digital-activism/feed/"/>
+                    <outline text="Organizing for Power, Organizing for Change" type="rss" htmlUrl="https://www.organizingforpower.org" xmlUrl="http://organizingforpower.org/feed/"/>
+                </outline>
+                <outline text="Tools; Resources + Learning for Activists">
+                    <outline text="FSG Publications" type="rss" htmlUrl="https://www.fsg.org/publications?sort_by=created" xmlUrl="http://feeds.feedburner.com/FSGPublications"/>
+                    <outline text="The Campaign Bootcamp blog - Campaign Bootcamp" type="rss" htmlUrl="https://www.campaignbootcamp.org/blog/" xmlUrl="https://www.campaignbootcamp.org/blog?format=RSS"/>
+                    <outline text="WITNESS" type="rss" htmlUrl="https://www.witness.org" xmlUrl="https://witness.org/feed/"/>
+                    <outline text="The Change Agency" type="rss" htmlUrl="https://www.thechangeagency.org" xmlUrl="http://www.thechangeagency.org/feed/"/>
+                    <outline text="Beautiful Trouble" type="rss" htmlUrl="https://beautifultrouble.org" xmlUrl="http://beautifultrouble.org/feed/"/>
+                    <outline text="Cooperation Commons" type="rss" htmlUrl="http://www.cooperationcommons.com" xmlUrl="http://www.cooperationcommons.com/rss.xml"/>
+                    <outline text="Network Weaver" type="rss" htmlUrl="https://networkweaver.com" xmlUrl="http://www.networkweaver.com/feed/"/>
+                    <outline text="New Media Advocacy Project" type="rss" htmlUrl="https://blog.newmediaadvocacy.org" xmlUrl="https://blog.newmediaadvocacy.org/feed/"/>
+                    <outline text="FSG Tools and Resources" type="rss" htmlUrl="https://www.fsg.org/publications?sort_by=created" xmlUrl="http://feeds.feedburner.com/FSGToolsandResources"/>
+                    <outline text="Mobilisation Lab" type="rss" htmlUrl="https://mobilisationlab.org" xmlUrl="http://www.mobilisationlab.org/feed/"/>
+                    <outline text="Wellstone" type="rss" htmlUrl="https://www.wellstone.org/blog" xmlUrl="http://www.wellstone.org/blog/rss.xml"/>
+                    <outline text="Connected Action" type="rss" htmlUrl="https://www.connectedaction.net" xmlUrl="https://www.connectedaction.net/feed/"/>
+                    <outline text="Learning for Sustainability" type="rss" htmlUrl="https://learningforsustainability.net" xmlUrl="http://learningforsustainability.net/feed/"/>
+                    <outline text="Rootwork Blog: Technology, Social Change and Nonprofits" type="rss" htmlUrl="http://rootwork.org/blog" xmlUrl="http://feeds.rootwork.org/rootwork"/>
+                    <outline text="Games for Change" type="rss" htmlUrl="http://www.gamesforchange.org" xmlUrl="http://www.gamesforchange.org/feed/"/>
+                    <outline text="New Tactics in Human Rights" type="rss" htmlUrl="https://www.newtactics.org" xmlUrl="https://www.newtactics.org/rss.xml"/>
+                    <outline text="Working Narratives » Blog" type="rss" htmlUrl="https://workingnarratives.org" xmlUrl="http://workingnarratives.org/category/blog/feed/"/>
+                    <outline text="Innoweave" type="rss" htmlUrl="http://www.innoweave.ca/blog" xmlUrl="http://www.innoweave.ca/blog/feed/"/>
+                    <outline text="FSG Blog Posts" type="rss" htmlUrl="https://www.fsg.org/feeds/blog/all/all" xmlUrl="http://feeds.feedburner.com/FSGBlogPosts"/>
+                    <outline text="Netcentric Advocacy" type="rss" htmlUrl="http://www.netcentricadvocacy.org/" xmlUrl="http://www.netcentricadvocacy.org/feeds/posts/default"/>
+                    <outline text="Transformative storytelling for social change" type="rss" htmlUrl="https://www.transformativestory.org" xmlUrl="http://www.transformativestory.org/feed/"/>
+                    <outline text="Media for Social Change" type="rss" htmlUrl="http://mediaforsocialchange.com" xmlUrl="http://mediaforsocialchange.com/feed/"/>
+                    <outline text="Spirit in Action" type="rss" htmlUrl="https://spiritinaction.net" xmlUrl="http://spiritinaction.net/feed/"/>
+                    <outline text="Networking Action" type="rss" htmlUrl="http://networkingaction.net" xmlUrl="http://feeds.feedburner.com/networkingaction"/>
+                    <outline text="Social Velocity" type="rss" htmlUrl="https://www.socialvelocity.net" xmlUrl="http://www.socialvelocity.net/feed/"/>
+                    <outline text="Social Change Collective - Blog" type="rss" htmlUrl="http://www.socialchangecollective.com/blog/" xmlUrl="http://www.socialchangecollective.com/blog?format=RSS"/>
+                    <outline text="Leadership Learning Community: Blog" type="rss" htmlUrl="http://leadershiplearning.org/feed/blog" xmlUrl="http://leadershiplearning.org/feed/blog"/>
+                    <outline text="Network Impact" type="rss" htmlUrl="http://www.networkimpact.org" xmlUrl="http://www.networkimpact.org/feed/"/>
+                    <outline text="Mobilization Journal" type="rss" htmlUrl="https://meridian.allenpress.com/mobilization" xmlUrl="http://mobilizationjournal.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=maiq"/>
+                    <outline text="Digital Activism Research Project" type="rss" htmlUrl="http://digital-activism.org" xmlUrl="http://digital-activism.org/feed/"/>
+                    <outline text="SSIR Articles" type="rss" htmlUrl="https://ssir.org/articles/" xmlUrl="https://ssir.org/site/rss_2.0"/>
+                    <outline text="Resources For Organizing and Social Change" type="rss" htmlUrl="http://resourcesforsocialchange.org/index.php/component/content/?view=featured" xmlUrl="http://resourcesforsocialchange.org/index.php?format=feed&amp;amp;type=rss"/>
+                    <outline text="MIT Leadership Center" type="rss" htmlUrl="http://leadership.mit.edu" xmlUrl="http://leadership.mit.edu/feed/"/>
+                </outline>
+                <outline text="South China Morning Post" type="rss" htmlUrl="https://www.scmp.com/rss/318206/feed" xmlUrl="https://www.scmp.com/rss/318206/feed"/>
+                <outline text="South China Morning Post" type="rss" htmlUrl="https://www.scmp.com/rss/318198/feed" xmlUrl="https://www.scmp.com/rss/318198/feed"/>
+                <outline text="South China Morning Post" type="rss" htmlUrl="https://www.scmp.com/rss/17/feed" xmlUrl="https://www.scmp.com/rss/17/feed"/>
+                <outline text="South China Morning Post" type="rss" htmlUrl="https://www.scmp.com/rss/322296/feed" xmlUrl="https://www.scmp.com/rss/322296/feed"/>
+                <outline text="South China Morning Post" type="rss" htmlUrl="https://www.scmp.com/rss/323046/feed" xmlUrl="https://www.scmp.com/rss/323046/feed"/>
+                <outline text="South China Morning Post" type="rss" htmlUrl="https://www.scmp.com/rss/323051/feed" xmlUrl="https://www.scmp.com/rss/323051/feed"/>
+                <outline text="South China Morning Post" type="rss" htmlUrl="https://www.scmp.com/rss/505323/feed" xmlUrl="https://www.scmp.com/rss/505323/feed"/>
+                <outline text="RTI Radio Taiwan International" type="rss" htmlUrl="https://en.rti.org.tw/" xmlUrl="http://english.rti.org.tw/rss"/>
+                <outline text="Taiwan Today" type="rss" htmlUrl="http://api.taiwantoday.tw" xmlUrl="http://api.taiwantoday.tw/en/rss.php"/>
+                <outline text="rthk.hk - Express News: Greater China" type="rss" htmlUrl="https://news.rthk.hk" xmlUrl="http://rthk9.rthk.hk/rthk/news/rss/e_expressnews_egreaterchina.xml"/>
+                <outline text="rthk.hk - Express News: Local" type="rss" htmlUrl="https://news.rthk.hk" xmlUrl="http://rthk9.rthk.hk/rthk/news/rss/e_expressnews_elocal.xml"/>
+                <outline text="China Digital Times (CDT)" type="rss" htmlUrl="https://chinadigitaltimes.net" xmlUrl="https://chinadigitaltimes.net/feed/"/>
+                <outline text="Hong Kong Free Press HKFP" type="rss" htmlUrl="https://hongkongfp.com" xmlUrl="https://hongkongfp.com/feed/"/>
+                <outline text="Taipei Times" type="rss" htmlUrl="https://www.taipeitimes.com/" xmlUrl="https://www.taipeitimes.com/xml/index.rss"/>
+            </outline>
+            <outline text="YouTube Subscriptions">
+                <outline text="Cocktail Chemistry" type="rss" htmlUrl="https://www.youtube.com/channel/UC-o0CfpOyFJOfyWKtqS1hZQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-o0CfpOyFJOfyWKtqS1hZQ"/>
+                <outline text="Genius" type="rss" htmlUrl="https://www.youtube.com/channel/UC0ED5C9OaHHlbpk55kNU5DQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0ED5C9OaHHlbpk55kNU5DQ"/>
+                <outline text="NowThis Her" type="rss" htmlUrl="https://www.youtube.com/channel/UC0Xf9eE1faywn_NK7VEgoXw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0Xf9eE1faywn_NK7VEgoXw"/>
+                <outline text="Blimey Cow" type="rss" htmlUrl="https://www.youtube.com/channel/UC0jIctUPBK6lHw4AYnGHvCA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0jIctUPBK6lHw4AYnGHvCA"/>
+                <outline text="The Economist" type="rss" htmlUrl="https://www.youtube.com/channel/UC0p5jTq6Xx_DosDFxVXnWaQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0p5jTq6Xx_DosDFxVXnWaQ"/>
+                <outline text="The Bearded Butchers" type="rss" htmlUrl="https://www.youtube.com/channel/UC0r6S4hmYdRcDnw7zey7Myg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0r6S4hmYdRcDnw7zey7Myg"/>
+                <outline text="Techquickie" type="rss" htmlUrl="https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0vBXGSyV14uvJ4hECDOl0Q"/>
+                <outline text="BBC News" type="rss" htmlUrl="https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC16niRr50-MSBwiO3YDb3RA"/>
+                <outline text="Pailin's Kitchen" type="rss" htmlUrl="https://www.youtube.com/channel/UC27C_HWo-UmKkdWGsRJZ8EA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC27C_HWo-UmKkdWGsRJZ8EA"/>
+                <outline text="Hong Kong Free Press" type="rss" htmlUrl="https://www.youtube.com/channel/UC36umLEHbPUS-lpucrXPcGQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC36umLEHbPUS-lpucrXPcGQ"/>
+                <outline text="South China Morning Post" type="rss" htmlUrl="https://www.youtube.com/channel/UC4SUWizzKc1tptprBkWjX2Q" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4SUWizzKc1tptprBkWjX2Q"/>
+                <outline text="NatGeoExpeditions" type="rss" htmlUrl="https://www.youtube.com/channel/UC4fzoETZET44XiO4POSCYxQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4fzoETZET44XiO4POSCYxQ"/>
+                <outline text="destinygame" type="rss" htmlUrl="https://www.youtube.com/channel/UC52XYgEExV9VG6Rt-6vnzVA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC52XYgEExV9VG6Rt-6vnzVA"/>
+                <outline text="Chinese Cooking Demystified" type="rss" htmlUrl="https://www.youtube.com/channel/UC54SLBnD5k5U3Q6N__UjbAw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC54SLBnD5k5U3Q6N__UjbAw"/>
+                <outline text="PBS NewsHour" type="rss" htmlUrl="https://www.youtube.com/channel/UC6ZFN9Tx6xh-skXCuRHCDpQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6ZFN9Tx6xh-skXCuRHCDpQ"/>
+                <outline text="VICE Asia" type="rss" htmlUrl="https://www.youtube.com/channel/UC8ZyfGD_qP-v75DGCzYQw6g" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8ZyfGD_qP-v75DGCzYQw6g"/>
+                <outline text="CBS News" type="rss" htmlUrl="https://www.youtube.com/channel/UC8p1vwvWtl6T73JiExfWs1g" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8p1vwvWtl6T73JiExfWs1g"/>
+                <outline text="Android" type="rss" htmlUrl="https://www.youtube.com/channel/UC9M7-jzdU8CVrQo1JwmIdWA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9M7-jzdU8CVrQo1JwmIdWA"/>
+                <outline text="Adam Ragusea" type="rss" htmlUrl="https://www.youtube.com/channel/UC9_p50tH3WmMslWRWKnM7dQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9_p50tH3WmMslWRWKnM7dQ"/>
+                <outline text="萨姐的南腔北调Lisa's Kitchen" type="rss" htmlUrl="https://www.youtube.com/channel/UCAVMrN8WuO16YI5U2slqcTA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAVMrN8WuO16YI5U2slqcTA"/>
+                <outline text="Motherboard" type="rss" htmlUrl="https://www.youtube.com/channel/UCB6PV0cvJpzlcXRG7nz6PpQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCB6PV0cvJpzlcXRG7nz6PpQ"/>
+                <outline text="9GAG" type="rss" htmlUrl="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCB6mM99rSGZXhvNJDktFs4g"/>
+                <outline text="老饭骨" type="rss" htmlUrl="https://www.youtube.com/channel/UCBJmYv3Vf_tKcQr5_qmayXg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBJmYv3Vf_tKcQr5_qmayXg"/>
+                <outline text="Marques Brownlee" type="rss" htmlUrl="https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ"/>
+                <outline text="ABC News" type="rss" htmlUrl="https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBi2mrWuNuyYy4gbM6fU18Q"/>
+                <outline text="BBC" type="rss" htmlUrl="https://www.youtube.com/channel/UCCj956IF62FbT7Gouszaj9w" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCj956IF62FbT7Gouszaj9w"/>
+                <outline text="Nat Geo WILD" type="rss" htmlUrl="https://www.youtube.com/channel/UCDPk9MG2RexnOMGTD-YnSnA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDPk9MG2RexnOMGTD-YnSnA"/>
+                <outline text="BBC Ideas" type="rss" htmlUrl="https://www.youtube.com/channel/UCDYT9mM3L_ByrPYMyl0MGGg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDYT9mM3L_ByrPYMyl0MGGg"/>
+                <outline text="Ethan Chlebowski" type="rss" htmlUrl="https://www.youtube.com/channel/UCDq5v10l4wkV5-ZBIJJFbzQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDq5v10l4wkV5-ZBIJJFbzQ"/>
+                <outline text="CNBC International TV" type="rss" htmlUrl="https://www.youtube.com/channel/UCF8HUTbUwPKh2Q-KpGOCVGw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCF8HUTbUwPKh2Q-KpGOCVGw"/>
+                <outline text="NowThis Future" type="rss" htmlUrl="https://www.youtube.com/channel/UCFH5dQAkGIqzcFYmM4tNtXw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFH5dQAkGIqzcFYmM4tNtXw"/>
+                <outline text="Mashed" type="rss" htmlUrl="https://www.youtube.com/channel/UCGvIBxqin_rx3sY9qacQEhQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGvIBxqin_rx3sY9qacQEhQ"/>
+                <outline text="Bloomberg Markets and Finance" type="rss" htmlUrl="https://www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIALMKvObZNtJ6AmdCLP7Lg"/>
+                <outline text="Tasty" type="rss" htmlUrl="https://www.youtube.com/channel/UCJFp8uSYCjXOMnkUyb3CQ3Q" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJFp8uSYCjXOMnkUyb3CQ3Q"/>
+                <outline text="Binging with Babish" type="rss" htmlUrl="https://www.youtube.com/channel/UCJHA_jMfCvEnv-3kRjTCQXw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJHA_jMfCvEnv-3kRjTCQXw"/>
+                <outline text="Sir Swag" type="rss" htmlUrl="https://www.youtube.com/channel/UCJy232tY_LUd1NuBgsSNUEA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJy232tY_LUd1NuBgsSNUEA"/>
+                <outline text="IGN" type="rss" htmlUrl="https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw"/>
+                <outline text="Vox" type="rss" htmlUrl="https://www.youtube.com/channel/UCLXo7UDZvByw2ixzpQCufnA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLXo7UDZvByw2ixzpQCufnA"/>
+                <outline text="Al Jazeera English" type="rss" htmlUrl="https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNye-wNBqNL5ZzHSJj3l8Bg"/>
+                <outline text="Economics Explained II" type="rss" htmlUrl="https://www.youtube.com/channel/UCOTgNyfQG4vVP5sCXrJaS4g" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOTgNyfQG4vVP5sCXrJaS4g"/>
+                <outline text=" 滇西小哥 Dianxi Xiaoge" type="rss" htmlUrl="https://www.youtube.com/channel/UCQG_fzADCunBTV1KwjkfAQQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQG_fzADCunBTV1KwjkfAQQ"/>
+                <outline text="Eater" type="rss" htmlUrl="https://www.youtube.com/channel/UCRzPUBhXUZHclB7B5bURFXw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRzPUBhXUZHclB7B5bURFXw"/>
+                <outline text="靜生廚房" type="rss" htmlUrl="https://www.youtube.com/channel/UCSfcTjOJPBWZvGZe4JV2KDw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSfcTjOJPBWZvGZe4JV2KDw"/>
+                <outline text="TaiwanCooking" type="rss" htmlUrl="https://www.youtube.com/channel/UCU8OYYlBl8pmrQaR4WdCZvA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCU8OYYlBl8pmrQaR4WdCZvA"/>
+                <outline text="Dream Chef Home 夢幻廚房在我家" type="rss" htmlUrl="https://www.youtube.com/channel/UCUz5OVO4aYhfur0R-TCaBtg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUz5OVO4aYhfur0R-TCaBtg"/>
+                <outline text="Bloomberg Politics" type="rss" htmlUrl="https://www.youtube.com/channel/UCV61VqLMr2eIhH4f51PV0gA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCV61VqLMr2eIhH4f51PV0gA"/>
+                <outline text="Cook With Mikey" type="rss" htmlUrl="https://www.youtube.com/channel/UCVe_8HDwE57tJKxpeJPTSCg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVe_8HDwE57tJKxpeJPTSCg"/>
+                <outline text="CodeBabes" type="rss" htmlUrl="https://www.youtube.com/channel/UCVg4DAiKW5WgPKKbQAJ89MA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVg4DAiKW5WgPKKbQAJ89MA"/>
+                <outline text="VICE TV" type="rss" htmlUrl="https://www.youtube.com/channel/UCWF0PiUvUi3Jma2oFgaiX2w" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWF0PiUvUi3Jma2oFgaiX2w"/>
+                <outline text="FiveThirtyEight" type="rss" htmlUrl="https://www.youtube.com/channel/UCXKjhxsfFQUqlNVQzLVnpEA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXKjhxsfFQUqlNVQzLVnpEA"/>
+                <outline text="點 Cook Guide" type="rss" htmlUrl="https://www.youtube.com/channel/UCXnWjmQ8BDE0sDIeZLK5yJg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXnWjmQ8BDE0sDIeZLK5yJg"/>
+                <outline text="Linus Tech Tips" type="rss" htmlUrl="https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw"/>
+                <outline text="張媽媽廚房Mama Cheung" type="rss" htmlUrl="https://www.youtube.com/channel/UCXwdv_B9WPSqOmi5EARYknA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXwdv_B9WPSqOmi5EARYknA"/>
+                <outline text="Jaboody Dubs" type="rss" htmlUrl="https://www.youtube.com/channel/UCZ30YNIcUWuSz8eVJZtLEjw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZ30YNIcUWuSz8eVJZtLEjw"/>
+                <outline text="Economics Explained" type="rss" htmlUrl="https://www.youtube.com/channel/UCZ4AMrDcNrfy3X6nsU8-rPg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZ4AMrDcNrfy3X6nsU8-rPg"/>
+                <outline text="VICE News" type="rss" htmlUrl="https://www.youtube.com/channel/UCZaT_X_mc0BI-djXOlfhqWQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZaT_X_mc0BI-djXOlfhqWQ"/>
+                <outline text="Tasty Recipes" type="rss" htmlUrl="https://www.youtube.com/channel/UCZvoUuniFzmOjfBt67lNsEQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZvoUuniFzmOjfBt67lNsEQ"/>
+                <outline text="Munchies" type="rss" htmlUrl="https://www.youtube.com/channel/UCaLfMkkHhSA_LaCta0BzyhQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaLfMkkHhSA_LaCta0BzyhQ"/>
+                <outline text="MSNBC" type="rss" htmlUrl="https://www.youtube.com/channel/UCaXkIU1QidjPwiAYu6GcHjg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaXkIU1QidjPwiAYu6GcHjg"/>
+                <outline text="Bon Appétit" type="rss" htmlUrl="https://www.youtube.com/channel/UCbpMy0Fg74eXXkvxJrtEn3w" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbpMy0Fg74eXXkvxJrtEn3w"/>
+                <outline text="Truffles On The Rocks" type="rss" htmlUrl="https://www.youtube.com/channel/UCbpv0BMQJ6ZGTZ2hj1meeWA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbpv0BMQJ6ZGTZ2hj1meeWA"/>
+                <outline text="THE BONNEVILLE COCKTAIL COLLECTION" type="rss" htmlUrl="https://www.youtube.com/channel/UCbyMfA1HJzS48Fc6-QVYJkA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbyMfA1HJzS48Fc6-QVYJkA"/>
+                <outline text="BBC Stories" type="rss" htmlUrl="https://www.youtube.com/channel/UCcgKRB26m6M3okTSP7C_UwA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcgKRB26m6M3okTSP7C_UwA"/>
+                <outline text="Epicurious" type="rss" htmlUrl="https://www.youtube.com/channel/UCcjhYlL1WRBjKaJsMH_h7Lg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcjhYlL1WRBjKaJsMH_h7Lg"/>
+                <outline text="The Verge" type="rss" htmlUrl="https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCddiUEpeqJcYeBxX1IVBKvQ"/>
+                <outline text="Behind the Bar" type="rss" htmlUrl="https://www.youtube.com/channel/UCe3grVLhUbejPXEaYMHKFbQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe3grVLhUbejPXEaYMHKFbQ"/>
+                <outline text="Acorns" type="rss" htmlUrl="https://www.youtube.com/channel/UCeIsLyi45Up-I_NAoYGKvtQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeIsLyi45Up-I_NAoYGKvtQ"/>
+                <outline text="NBC News" type="rss" htmlUrl="https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeY0bbntWzzVIaj2z3QigXg"/>
+                <outline text="蘋果動新聞 HK Apple Daily" type="rss" htmlUrl="https://www.youtube.com/channel/UCeqUUXaM75wrK5Aalo6UorQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeqUUXaM75wrK5Aalo6UorQ"/>
+                <outline text="Steve the Bartender" type="rss" htmlUrl="https://www.youtube.com/channel/UCfEJUzPnT-HdNqOqdX3A0lA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfEJUzPnT-HdNqOqdX3A0lA"/>
+                <outline text="VICE Life" type="rss" htmlUrl="https://www.youtube.com/channel/UCfQDD-pbllOCXHYwiXxjJxA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfQDD-pbllOCXHYwiXxjJxA"/>
+                <outline text="NowThis Nerd" type="rss" htmlUrl="https://www.youtube.com/channel/UCfXt_KOV9e9LstIHFzzO6vA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfXt_KOV9e9LstIHFzzO6vA"/>
+                <outline text="The Infographics Show" type="rss" htmlUrl="https://www.youtube.com/channel/UCfdNM3NAhaBOXCafH7krzrA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfdNM3NAhaBOXCafH7krzrA"/>
+                <outline text="美食作家王刚" type="rss" htmlUrl="https://www.youtube.com/channel/UCg0m_Ah8P_MQbnn77-vYnYw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCg0m_Ah8P_MQbnn77-vYnYw"/>
+                <outline text="NowThis World" type="rss" htmlUrl="https://www.youtube.com/channel/UCgRvm1yLFoaQKhmaTqXk9SA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgRvm1yLFoaQKhmaTqXk9SA"/>
+                <outline text="Muddle Muddle" type="rss" htmlUrl="https://www.youtube.com/channel/UCgoRvbHf6WkAJrjYaY9gMRg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgoRvbHf6WkAJrjYaY9gMRg"/>
+                <outline text="Android Authority" type="rss" htmlUrl="https://www.youtube.com/channel/UCgyqtNWZmIxTx3b6OxTSALw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgyqtNWZmIxTx3b6OxTSALw"/>
+                <outline text="Joshua Weissman" type="rss" htmlUrl="https://www.youtube.com/channel/UChBEbMKI1eCcejTtmI32UEw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChBEbMKI1eCcejTtmI32UEw"/>
+                <outline text="Bloomberg QuickTake News" type="rss" htmlUrl="https://www.youtube.com/channel/UChirEOpgFCupRAk5etXqPaA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChirEOpgFCupRAk5etXqPaA"/>
+                <outline text="Reuters" type="rss" htmlUrl="https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChqUTb7kYRX8-EiaN3XFrSQ"/>
+                <outline text="How To Drink" type="rss" htmlUrl="https://www.youtube.com/channel/UCioZY1p0bZ4Xt-yodw8_cBQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCioZY1p0bZ4Xt-yodw8_cBQ"/>
+                <outline text="Gigi 煮嘢 / Gigi's Pot Of Love" type="rss" htmlUrl="https://www.youtube.com/channel/UCjJgk9tVaoDBTgRemK2n0og" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjJgk9tVaoDBTgRemK2n0og"/>
+                <outline text="David Seymour" type="rss" htmlUrl="https://www.youtube.com/channel/UCk-69xtxuCDuVF7CaaGeXQA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCk-69xtxuCDuVF7CaaGeXQA"/>
+                <outline text="JayzTwoCents" type="rss" htmlUrl="https://www.youtube.com/channel/UCkWQ0gDrqOCarmUKmppD7GQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkWQ0gDrqOCarmUKmppD7GQ"/>
+                <outline text="Elaine Luo" type="rss" htmlUrl="https://www.youtube.com/channel/UCly-uUXFCjZ0fiO3or_jnQQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCly-uUXFCjZ0fiO3or_jnQQ"/>
+                <outline text="曼食慢语 Amanda Tastes" type="rss" htmlUrl="https://www.youtube.com/channel/UCmXkJ9ReY5hjvYPcnmBwing" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmXkJ9ReY5hjvYPcnmBwing"/>
+                <outline text="Proper Tasty" type="rss" htmlUrl="https://www.youtube.com/channel/UCm_k-dtiNNeGQq1NrJKdZGA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCm_k-dtiNNeGQq1NrJKdZGA"/>
+                <outline text="Le Barman Bruno" type="rss" htmlUrl="https://www.youtube.com/channel/UCmi-2X815vs09YKUgAlUbuQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmi-2X815vs09YKUgAlUbuQ"/>
+                <outline text="NowThis News" type="rss" htmlUrl="https://www.youtube.com/channel/UCn4sPeUomNGIr26bElVdDYg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCn4sPeUomNGIr26bElVdDYg"/>
+                <outline text="VICE" type="rss" htmlUrl="https://www.youtube.com/channel/UCn8zNIfYAQNdrFRrr8oibKw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCn8zNIfYAQNdrFRrr8oibKw"/>
+                <outline text="CNBC International" type="rss" htmlUrl="https://www.youtube.com/channel/UCo7a6riBFJ3tkeHjvkXPn1g" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCo7a6riBFJ3tkeHjvkXPn1g"/>
+                <outline text="李子柒 Liziqi" type="rss" htmlUrl="https://www.youtube.com/channel/UCoC47do520os_4DBMEFGg4A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoC47do520os_4DBMEFGg4A"/>
+                <outline text="Vlad SlickBartender" type="rss" htmlUrl="https://www.youtube.com/channel/UCp4nL9M78_HF6JL1MNzh-NQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCp4nL9M78_HF6JL1MNzh-NQ"/>
+                <outline text="National Geographic" type="rss" htmlUrl="https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpVm7bg6pXKo1Pr6k5kxG9A"/>
+                <outline text="The New York Times" type="rss" htmlUrl="https://www.youtube.com/channel/UCqnbDFdCpuN8CMEg0VuEBqA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqnbDFdCpuN8CMEg0VuEBqA"/>
+                <outline text="J. Kenji López-Alt" type="rss" htmlUrl="https://www.youtube.com/channel/UCqqJQ_cXSat0KIAVfIfKkVA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqqJQ_cXSat0KIAVfIfKkVA"/>
+                <outline text="Bloomberg Technology" type="rss" htmlUrl="https://www.youtube.com/channel/UCrM7B7SL_g1edFOnmj-SDKg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrM7B7SL_g1edFOnmj-SDKg"/>
+                <outline text="wantanmien" type="rss" htmlUrl="https://www.youtube.com/channel/UCsy5tUhFYchN8BFdXJtECRQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsy5tUhFYchN8BFdXJtECRQ"/>
+                <outline text="Verge Science" type="rss" htmlUrl="https://www.youtube.com/channel/UCtxJFU9DgUhfr2J2bveCHkQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtxJFU9DgUhfr2J2bveCHkQ"/>
+                <outline text="The Educated Barfly" type="rss" htmlUrl="https://www.youtube.com/channel/UCu9ArHUJZadlhwt3Jt0tqgA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCu9ArHUJZadlhwt3Jt0tqgA"/>
+                <outline text="CNN" type="rss" htmlUrl="https://www.youtube.com/channel/UCupvZG-5ko_eiXAupbDfxWw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCupvZG-5ko_eiXAupbDfxWw"/>
+                <outline text="iwen baking" type="rss" htmlUrl="https://www.youtube.com/channel/UCurEHR1R3Anqphh3SASL8tA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCurEHR1R3Anqphh3SASL8tA"/>
+                <outline text="CNBC" type="rss" htmlUrl="https://www.youtube.com/channel/UCvJJ_dzjViJCoLf5uKUTwoA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvJJ_dzjViJCoLf5uKUTwoA"/>
+                <outline text="Distinguished Spirits" type="rss" htmlUrl="https://www.youtube.com/channel/UCwNaA67lAVnIU6BMtpXj_0w" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwNaA67lAVnIU6BMtpXj_0w"/>
+                <outline text="My Name Is Andong" type="rss" htmlUrl="https://www.youtube.com/channel/UCyEA3vUnlpg0xzkECEq1rOA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyEA3vUnlpg0xzkECEq1rOA"/>
+                <outline text="Pro Home Cooks" type="rss" htmlUrl="https://www.youtube.com/channel/UCzH5n3Ih5kgQoiDAQt2FwLw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzH5n3Ih5kgQoiDAQt2FwLw"/>
+                <outline text="Seeker" type="rss" htmlUrl="https://www.youtube.com/channel/UCzWQYUVCpZqtN93H8RR44Qw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzWQYUVCpZqtN93H8RR44Qw"/>
+            </outline>
+            <outline text="Religion">
+                <outline text="A Convergence of Thought" type="rss" htmlUrl="https://www.patheos.com/blogs/aconvergenceofthought" xmlUrl="https://www.patheos.com/blogs/aconvergenceofthought/feed/"/>
+                <outline text="Activist Theology: Translating Theology to Action" type="rss" htmlUrl="https://www.patheos.com/blogs/activisttheology" xmlUrl="https://www.patheos.com/blogs/activisttheology/feed/"/>
+                <outline text="All Set Free" type="rss" htmlUrl="https://www.patheos.com/blogs/allsetfree" xmlUrl="https://www.patheos.com/blogs/allsetfree/feed/"/>
+                <outline text="Christianity is Changing" type="rss" htmlUrl="https://www.patheos.com/blogs/christianityischanging" xmlUrl="https://www.patheos.com/blogs/christianityischanging/feed/"/>
+                <outline text="Kimberly Knight" type="rss" htmlUrl="https://www.patheos.com/blogs/kimberlyknight" xmlUrl="https://www.patheos.com/blogs/kimberlyknight/feed/"/>
+                <outline text="Divergence" type="rss" htmlUrl="https://www.patheos.com/blogs/divergence" xmlUrl="https://www.patheos.com/blogs/divergence/feed/"/>
+                <outline text="Edges of Faith" type="rss" htmlUrl="https://www.patheos.com/blogs/davidhenson" xmlUrl="https://www.patheos.com/blogs/davidhenson/feed/"/>
+                <outline text="Everyday Black Matters" type="rss" htmlUrl="https://www.patheos.com/blogs/everydayblackmatters" xmlUrl="https://www.patheos.com/blogs/everydayblackmatters/feed/"/>
+                <outline text="Femmevangelical" type="rss" htmlUrl="https://www.patheos.com/blogs/femmevangelical" xmlUrl="https://www.patheos.com/blogs/femmevangelical/feed/"/>
+                <outline text="Faith With Wisdom" type="rss" htmlUrl="https://www.patheos.com/blogs/faithwithwisdom" xmlUrl="https://www.patheos.com/blogs/faithwithwisdom/feed/"/>
+                <outline text="ProgressiveChristianity.org" type="rss" htmlUrl="https://progressivechristianity.org" xmlUrl="https://progressivechristianity.org/feed/"/>
+                <outline text="The Dubious Disciple" type="rss" htmlUrl="http://www.dubiousdisciple.com" xmlUrl="http://feeds.feedburner.com/thedubiousdisciple"/>
+                <outline text="Liberal Baptist Rev – Ask A Liberal Preacher" type="rss" htmlUrl="https://askaliberalpreacher.wordpress.com" xmlUrl="https://askaliberalpreacher.wordpress.com/tag/liberal-baptist-rev/feed/"/>
+                <outline text="Progressing Spirit" type="rss" htmlUrl="https://progressingspirit.com" xmlUrl="https://progressingspirit.com/feed/"/>
+                <outline text="The Network of Spiritual Progressives" type="rss" htmlUrl="https://spiritualprogressives.org" xmlUrl="https://spiritualprogressives.org/feed/"/>
+                <outline text="Worship Words" type="rss" htmlUrl="https://worshipwords.co.uk" xmlUrl="https://worshipwords.co.uk/feed/"/>
+                <outline text="To Do Justice" type="rss" htmlUrl="https://www.patheos.com/blogs/todojustice" xmlUrl="https://www.patheos.com/blogs/todojustice/feed/"/>
+                <outline text="Unsystematic Theology" type="rss" htmlUrl="https://www.patheos.com/blogs/unsystematictheology" xmlUrl="https://www.patheos.com/blogs/unsystematictheology/feed/"/>
+                <outline text="Whiskey Preacher" type="rss" htmlUrl="https://www.patheos.com/blogs/whiskeypreacher" xmlUrl="https://www.patheos.com/blogs/whiskeypreacher/feed/"/>
+                <outline text="Unfundamentalist Christians" type="rss" htmlUrl="https://www.patheos.com/blogs/unfundamentalistchristians" xmlUrl="https://www.patheos.com/blogs/unfundamentalistchristians/feed/"/>
+                <outline text="Teaching Nonviolent Atonement" type="rss" htmlUrl="https://www.patheos.com/blogs/teachingnonviolentatonement" xmlUrl="https://www.patheos.com/blogs/teachingnonviolentatonement/feed/"/>
+                <outline text="Social Jesus" type="rss" htmlUrl="https://www.patheos.com/blogs/socialjesus" xmlUrl="https://www.patheos.com/blogs/socialjesus/feed/"/>
+                <outline text="slacktivist" type="rss" htmlUrl="https://www.patheos.com/blogs/slacktivist" xmlUrl="https://www.patheos.com/blogs/slacktivist/feed/"/>
+                <outline text="Freelance Christianity" type="rss" htmlUrl="https://www.patheos.com/blogs/freelancechristianity" xmlUrl="https://www.patheos.com/blogs/freelancechristianity/feed/"/>
+                <outline text="InterVarsity Blog" type="rss" htmlUrl="https://intervarsity.org/blog/feed" xmlUrl="https://intervarsity.org/blog/feed"/>
+            </outline>
+            <outline text="Food and Drinks">
+                <outline text="The Hong Kong Cookery" type="rss" htmlUrl="http://www.thehongkongcookery.com/" xmlUrl="http://feeds.feedburner.com/TheHongKongCookery"/>
+                <outline text="The Woks of Life" type="rss" htmlUrl="https://thewoksoflife.com" xmlUrl="https://thewoksoflife.com/feed/"/>
+                <outline text="Cantonese – Lady and Pups" type="rss" htmlUrl="https://ladyandpups.com" xmlUrl="https://ladyandpups.com/tag/cantonese/feed/"/>
+                <outline text="The Burning Kitchen - Cantonese" type="rss" htmlUrl="https://www.theburningkitchen.com" xmlUrl="https://www.theburningkitchen.com/category/recipes/cuisine/cantonese/feed/"/>
+                <outline text="Omnivore's Cookbook" type="rss" htmlUrl="https://omnivorescookbook.com" xmlUrl="https://omnivorescookbook.com/feed/"/>
+                <outline text="Jeffrey Morgenthaler" type="rss" htmlUrl="https://jeffreymorgenthaler.com" xmlUrl="https://jeffreymorgenthaler.com/feed/"/>
+                <outline text="Tipsy Bartender" type="rss" htmlUrl="https://tipsybartender.com" xmlUrl="https://tipsybartender.com/feed/"/>
+                <outline text="Imbibe Magazine" type="rss" htmlUrl="https://imbibemagazine.com" xmlUrl="https://imbibemagazine.com/feed/"/>
+                <outline text="Tales of the Cocktail Foundation" type="rss" htmlUrl="https://talesofthecocktail.org" xmlUrl="https://talesofthecocktail.org/feed/"/>
+                <outline text="PUNCH" type="rss" htmlUrl="https://punchdrink.com" xmlUrl="https://punchdrink.com/feed/"/>
+                <outline text="The Drink Blog" type="rss" htmlUrl="https://thedrinkblog.com" xmlUrl="https://thedrinkblog.com/feed/"/>
+                <outline text="Intoxicology.com" type="rss" htmlUrl="http://intoxicology.net" xmlUrl="http://intoxicology.net/feed/"/>
+                <outline text="Craft and Cocktails" type="rss" htmlUrl="https://craftandcocktails.co" xmlUrl="https://craftandcocktails.co/feed/"/>
+                <outline text="Thirsty Camel Cocktails" type="rss" htmlUrl="http://thirstycamelcocktails.com" xmlUrl="http://thirstycamelcocktails.com/feed/"/>
+                <outline text="Proof Cocktails" type="rss" htmlUrl="https://www.proofcocktails.nl" xmlUrl="https://www.proofcocktails.nl/feed/"/>
+                <outline text="Beautiful Booze" type="rss" htmlUrl="https://www.beautifulbooze.com" xmlUrl="https://www.beautifulbooze.com/feed/"/>
+                <outline text="Arsenic Lace" type="rss" htmlUrl="http://arsenic-lace.com" xmlUrl="http://arsenic-lace.com/feed/"/>
+                <outline text="The Straight Up" type="rss" htmlUrl="https://drinkstraightup.com" xmlUrl="https://drinkstraightup.com/feed/"/>
+                <outline text="A Bar Above" type="rss" htmlUrl="https://abarabove.com" xmlUrl="https://abarabove.com/feed/"/>
+            </outline>
+        </outline>
+    </body>
+</opml>
