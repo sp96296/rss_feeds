@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>Sat Sep 19 19:53:14 2020</dateModified>
+        <dateModified>Fri Nov 13 12:21:40 2020</dateModified>
     </head>
     <body>
         <outline text="All">
@@ -15,7 +15,7 @@
                     <outline text="Global Health Council" type="rss" htmlUrl="https://globalhealth.org" xmlUrl="http://globalhealth.org/feed/"/>
                     <outline text="THCB" type="rss" htmlUrl="https://thehealthcareblog.com" xmlUrl="http://thehealthcareblog.com/feed/"/>
                     <outline text="Global Health: Science and Practice current issue" type="rss" htmlUrl="http://ghspjournal.org" xmlUrl="http://www.ghspjournal.org/rss/current.xml"/>
-                    <outline text="Global Issues - Health Issues News Headlines" type="rss" htmlUrl="https://www.globalissues.org/news/2020/09/17/26840" xmlUrl="http://www.globalissues.org/news/topic/587/feed"/>
+                    <outline text="Global Issues - Health Issues News Headlines" type="rss" htmlUrl="https://www.globalissues.org/news/2020/11/13/27020" xmlUrl="http://www.globalissues.org/news/topic/587/feed"/>
                     <outline text="GHNGN" type="rss" htmlUrl="http://ghnetwork.org" xmlUrl="http://ghnetwork.org/feed/"/>
                     <outline text="Global Health and Wellness News - ENN" type="rss" htmlUrl="http://www.enn.com/topics/health" xmlUrl="http://feeds2.feedburner.com/GlobalHealthAndWellnessNews-Enn"/>
                     <outline text="The Guardian | Health" type="rss" htmlUrl="https://www.theguardian.com/society/health" xmlUrl="https://www.theguardian.com/society/health/rss"/>
@@ -196,7 +196,7 @@
                     <outline text="People, Spaces, Deliberation - Exploring the interactions among public opinion, governance, and the public sphere" type="rss" htmlUrl="http://blogs.worldbank.org/publicsphere/" xmlUrl="http://blogs.worldbank.org/publicsphere/rss.xml"/>
                     <outline text="Oxfam Policy &amp; Practice - Governance Publications" type="rss" htmlUrl="http://policy-practice.oxfam.org.uk" xmlUrl="http://policy-practice.oxfam.org.uk/rss/publications/subject/governance"/>
                     <outline text="Politics, Governance and Development" type="rss" htmlUrl="https://politicsgovernancedevelopment.wordpress.com" xmlUrl="https://politicsgovernancedevelopment.wordpress.com/feed/"/>
-                    <outline text="Chatham House: Social Movements" type="rss" htmlUrl="https://www.chathamhouse.org/path/111/feed.xml" xmlUrl="https://www.chathamhouse.org/path/111/feed.xml"/>
+                    <outline text="Chatham House: Social Movements" type="rss" htmlUrl="https://www.chathamhouse.org/" xmlUrl="https://www.chathamhouse.org/path/111/feed.xml"/>
                     <outline text="C2G2" type="rss" htmlUrl="http://blog.soton.ac.uk/c2g2" xmlUrl="http://blog.soton.ac.uk/c2g2/feed/"/>
                     <outline text="OECD - Governance Library Feed" type="rss" htmlUrl="http://www.oecdilibrary.com" xmlUrl="http://www.oecd-ilibrary.org/rss/content/subject/39/latest?fmt=rss"/>
                     <outline text="GSDRC - Governance" type="rss" htmlUrl="https://gsdrc.org" xmlUrl="http://www.gsdrc.org/category/governance/feed/"/>
@@ -212,7 +212,7 @@
                     <outline text="openDemocracy" type="rss" htmlUrl="https://www.opendemocracy.net/feed/" xmlUrl="https://www.opendemocracy.net/xml/rss/home/index.xml"/>
                     <outline text="Transparency International - News Highlights" type="rss" htmlUrl="http://www.transparency.org" xmlUrl="http://www.transparency.org/feed/hlght"/>
                     <outline text="Open Society Foundations" type="rss" htmlUrl="https://www.opensocietyfoundations.org/rss" xmlUrl="https://www.opensocietyfoundations.org/rss"/>
-                    <outline text="Global Issues - Geopolitics News Headlines" type="rss" htmlUrl="https://www.globalissues.org/news/2020/09/18/26844" xmlUrl="http://www.globalissues.org/news/topic/65/feed"/>
+                    <outline text="Global Issues - Geopolitics News Headlines" type="rss" htmlUrl="https://www.globalissues.org/news/2020/11/13/27021" xmlUrl="http://www.globalissues.org/news/topic/65/feed"/>
                     <outline text="World Affairs Journal - Essays" type="rss" htmlUrl="http://www.worldaffairsjournal.org/essay-feed" xmlUrl="http://www.worldaffairsjournal.org/essay-feed.xml"/>
                     <outline text="Foreign Policy" type="rss" htmlUrl="https://foreignpolicy.com" xmlUrl="http://foreignpolicy.com/feed/"/>
                     <outline text="Open Government Partnership" type="rss" htmlUrl="http://www.opengovpartnership.org/rss.xml" xmlUrl="http://www.opengovpartnership.org/rss.xml"/>
@@ -221,7 +221,7 @@
                     <outline text="Political Science Quarterly" type="rss" htmlUrl="http://www.psqonline.org/" xmlUrl="http://www.psqonline.org/xml/rss.cfm"/>
                     <outline text="UNDP - Democracy and Governance News Centre" type="rss" htmlUrl="https://www.undp.org:80/content/undp/en/home/news-centre.html" xmlUrl="http://www.undp.org/content/undp/en/home/presscenter/_jcr_content/rightpar/searchpressreleases.feed"/>
                     <outline text="The Intercept" type="rss" htmlUrl="https://theintercept.com" xmlUrl="https://theintercept.com/feed/?rss"/>
-                    <outline text="Global Issues -Democracy  News Headlines" type="rss" htmlUrl="https://www.globalissues.org/news/2020/09/18/26844" xmlUrl="http://www.globalissues.org/news/topic/761/feed"/>
+                    <outline text="Global Issues -Democracy  News Headlines" type="rss" htmlUrl="https://www.globalissues.org/news/2020/11/13/27020" xmlUrl="http://www.globalissues.org/news/topic/761/feed"/>
                     <outline text="Democracy Chronicles" type="rss" htmlUrl="https://democracychronicles.org" xmlUrl="https://democracychronicles.com/feed/"/>
                     <outline text="DemocracyWorks: A Blog of the National Democratic Institute" type="rss" htmlUrl="https://www.demworks.org/" xmlUrl="https://www.demworks.org/rss.xml"/>
                     <outline text="Democracy Now!" type="rss" htmlUrl="http://www.democracynow.org/" xmlUrl="https://www.democracynow.org/democracynow.rss"/>
@@ -313,10 +313,10 @@
                     <outline text="International Justice Mission" type="rss" htmlUrl="http://www.ijm.org" xmlUrl="http://www.ijm.org/rss.xml"/>
                     <outline text="Center for Economic and Social Rights - Updates" type="rss" htmlUrl="http://cesr.org/" xmlUrl="http://www.cesr.org/rssfeed.php"/>
                     <outline text="EIN - Human Rights News" type="rss" htmlUrl="http://humanrights.einnews.com/" xmlUrl="http://humanrights.einnews.com/rss/QSpEd2WiOtsBVy3c"/>
-                    <outline text="Global Issues News - Human Rights" type="rss" htmlUrl="https://www.globalissues.org/news/2020/09/17/26842" xmlUrl="http://www.globalissues.org/news/topic/137/feed"/>
+                    <outline text="Global Issues News - Human Rights" type="rss" htmlUrl="https://www.globalissues.org/news/2020/11/13/27020" xmlUrl="http://www.globalissues.org/news/topic/137/feed"/>
                     <outline text="Inter-American Human Rights Network" type="rss" htmlUrl="http://interamericanhumanrights.org" xmlUrl="http://interamericanhumanrights.org/feed/"/>
                     <outline text="Refugees International" type="rss" htmlUrl="https://www.refugeesinternational.org/" xmlUrl="https://www.refugeesinternational.org/home?format=RSS"/>
-                    <outline text="La Strada International News Feed" type="rss" htmlUrl="http://lastradainternational.org/feed/rss" xmlUrl="http://lastradainternational.org/feed/rss"/>
+                    <outline text="La Strada International News Feed" type="rss" htmlUrl="https://lastradainternational.org/feed/rss" xmlUrl="http://lastradainternational.org/feed/rss"/>
                     <outline text="Protectionline" type="rss" htmlUrl="http://protectionline.org/" xmlUrl="http://protectionline.org/feed/atom/"/>
                     <outline text="Human Wrongs Watch" type="rss" htmlUrl="https://human-wrongs-watch.net" xmlUrl="https://human-wrongs-watch.net/feed/"/>
                     <outline text="Huffington Post - Human Rights" type="rss" htmlUrl="http://www.huffingtonpost.com/tag/human-rights" xmlUrl="http://www.huffingtonpost.com/news/human-rights/feed//"/>
@@ -343,7 +343,7 @@
                     <outline text="DeSmogBlog" type="rss" htmlUrl="https://www.desmogblog.com/frontpage" xmlUrl="https://www.desmogblog.com/rss.xml"/>
                     <outline text="The Guardian | Climate change" type="rss" htmlUrl="https://www.theguardian.com/environment/climate-change" xmlUrl="https://www.theguardian.com/environment/climate-change/rss"/>
                     <outline text="Climate and Development Knowledge NetworkClimate and Development Knowledge Network" type="rss" htmlUrl="https://cdkn.org" xmlUrl="http://cdkn.org/feed/?lang=en_gb"/>
-                    <outline text="Global Issues - Climate Change and Global Warming News Headlines" type="rss" htmlUrl="https://www.globalissues.org/news/2020/09/16/26834" xmlUrl="http://www.globalissues.org/news/topic/178/feed"/>
+                    <outline text="Global Issues - Climate Change and Global Warming News Headlines" type="rss" htmlUrl="https://www.globalissues.org/news/2020/11/13/27020" xmlUrl="http://www.globalissues.org/news/topic/178/feed"/>
                     <outline text="RealClimate" type="rss" htmlUrl="http://www.realclimate.org" xmlUrl="http://www.realclimate.org/index.php/feed/atom/"/>
                     <outline text="The Huffington Post - Climate Change" type="rss" htmlUrl="http://www.huffingtonpost.com/tag/climate-change" xmlUrl="http://www.huffingtonpost.com/news/climate-change/feed//"/>
                     <outline text="FT - Climate change" type="rss" htmlUrl="https://www.ft.com/stream/24ad2c58-14fb-4217-b6f7-7ef88ac51375" xmlUrl="https://www.ft.com/topics/themes/Climate_change?format=rss"/>
@@ -378,7 +378,7 @@
                     <outline text="Indigenous Environmental Network" type="rss" htmlUrl="https://www.ienearth.org" xmlUrl="http://www.ienearth.org/feed/"/>
                     <outline text="National Geographic News: Environment" type="rss" htmlUrl="http://news.nationalgeographic.com/" xmlUrl="http://feeds.nationalgeographic.com/ng/News/News_Environment"/>
                     <outline text="Mother Jones | Environment" type="rss" htmlUrl="http://www.motherjones.com/politics/feed" xmlUrl="http://feeds.feedburner.com/motherjones/Environment"/>
-                    <outline text="Global Issues - Environmental Issues News Headlines" type="rss" htmlUrl="https://www.globalissues.org/news/2020/09/16/26834" xmlUrl="http://www.globalissues.org/news/topic/168/feed"/>
+                    <outline text="Global Issues - Environmental Issues News Headlines" type="rss" htmlUrl="https://www.globalissues.org/news/2020/11/12/27016" xmlUrl="http://www.globalissues.org/news/topic/168/feed"/>
                     <outline text="Environmental Research Web" type="rss" htmlUrl="http://environmentalresearchweb.org/channel/news" xmlUrl="http://feeds.feedburner.com/ERWNews"/>
                     <outline text="WWF - Environmental News" type="rss" htmlUrl="http://wwf.panda.org" xmlUrl="http://www.panda.org/rss/news.cfm?Press%20Office"/>
                     <outline text="Grist" type="rss" htmlUrl="https://grist.org" xmlUrl="http://grist.org/feed/"/>
@@ -390,7 +390,7 @@
                     <outline text="Guardian Environment Network" type="rss" htmlUrl="https://www.theguardian.com/environment/series/guardian-environment-network" xmlUrl="https://www.theguardian.com/environment/series/guardian-environment-network/rss"/>
                     <outline text="Society of Environmental Journalists" type="rss" htmlUrl="https://www.sej.org/rss_short_list" xmlUrl="http://www.sej.org/rss_short_list"/>
                     <outline text="NPR: Environment" type="rss" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1025" xmlUrl="http://www.npr.org/rss/rss.php?id=1025"/>
-                    <outline text="EnviroNews" type="rss" htmlUrl="http://www.environews.tv" xmlUrl="http://www.environews.tv/feed/"/>
+                    <outline text="EnviroNews" type="rss" htmlUrl="https://www.environews.tv" xmlUrl="http://www.environews.tv/feed/"/>
                     <outline text="Global Justice Ecology Project" type="rss" htmlUrl="https://globaljusticeecology.org" xmlUrl="http://globaljusticeecology.org/feed/"/>
                     <outline text="International Institute for Environment and Development" type="rss" htmlUrl="https://www.iied.org/" xmlUrl="http://www.iied.org/rss.xml"/>
                     <outline text="Earth Island" type="rss" htmlUrl="http://www.earthisland.org/journal/index.php/elist/" xmlUrl="http://www.earthisland.org/journal/index.php/elist/eListRSS/"/>
@@ -470,7 +470,7 @@
                     <outline text="The Economist - Culture and Lifestyle" type="rss" htmlUrl="http://www.economist.com/topics/culture-and-lifestyle" xmlUrl="http://www.economist.com/topics/culture-and-lifestyle/index.xml"/>
                     <outline text="Huffington Post - Culture" type="rss" htmlUrl="http://www.huffingtonpost.com/tag/culture" xmlUrl="http://www.huffingtonpost.com/news/culture/feed//"/>
                     <outline text="ScienceDaily - Arts and Culture News" type="rss" htmlUrl="https://www.sciencedaily.com/news/science_society/arts_and_culture/" xmlUrl="https://rss.sciencedaily.com/science_society/arts_and_culture.xml"/>
-                    <outline text="Open Culture" type="rss" htmlUrl="http://www.openculture.com" xmlUrl="http://feeds.feedburner.com/OpenCulture"/>
+                    <outline text="Open Culture" type="rss" htmlUrl="https://www.openculture.com" xmlUrl="http://feeds.feedburner.com/OpenCulture"/>
                     <outline text="Goethe Culture and Climate Change" type="rss" htmlUrl="http://www.goethe.de/ges/umw/prj/kuk/enindex.htm" xmlUrl="http://rss.goethe.de/?lang=en&amp;thema=kuk&amp;land=kuk&amp;typ=a&amp;n=10&amp;title=goethe.de/climate%20Culture%20and%20Climate%20Change"/>
                     <outline text="The Guardian | Culture" type="rss" htmlUrl="https://www.theguardian.com/uk/culture" xmlUrl="https://www.theguardian.com/uk/culture/rss"/>
                     <outline text="The Pop Culture Salvage Expeditions Podcast" type="rss" htmlUrl="https://c4aa.org" xmlUrl="https://artisticactivism.org/feed/podcast/"/>
@@ -510,12 +510,12 @@
                     <outline text="Transformative storytelling for social change" type="rss" htmlUrl="https://www.transformativestory.org" xmlUrl="http://www.transformativestory.org/feed/"/>
                     <outline text="Media for Social Change" type="rss" htmlUrl="http://mediaforsocialchange.com" xmlUrl="http://mediaforsocialchange.com/feed/"/>
                     <outline text="Spirit in Action" type="rss" htmlUrl="https://spiritinaction.net" xmlUrl="http://spiritinaction.net/feed/"/>
-                    <outline text="Networking Action" type="rss" htmlUrl="http://networkingaction.net" xmlUrl="http://feeds.feedburner.com/networkingaction"/>
+                    <outline text="Networking Action" type="rss" htmlUrl="https://networkingaction.net" xmlUrl="http://feeds.feedburner.com/networkingaction"/>
                     <outline text="Social Velocity" type="rss" htmlUrl="https://www.socialvelocity.net" xmlUrl="http://www.socialvelocity.net/feed/"/>
                     <outline text="Social Change Collective - Blog" type="rss" htmlUrl="http://www.socialchangecollective.com/blog/" xmlUrl="http://www.socialchangecollective.com/blog?format=RSS"/>
                     <outline text="Leadership Learning Community: Blog" type="rss" htmlUrl="http://leadershiplearning.org/feed/blog" xmlUrl="http://leadershiplearning.org/feed/blog"/>
                     <outline text="Network Impact" type="rss" htmlUrl="http://www.networkimpact.org" xmlUrl="http://www.networkimpact.org/feed/"/>
-                    <outline text="Mobilization Journal" type="rss" htmlUrl="https://meridian.allenpress.com/mobilization" xmlUrl="http://mobilizationjournal.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=maiq"/>
+                    <outline text="Mobilization Journal" type="rss" htmlUrl="http://mobilizationjournal.org/mobilization" xmlUrl="http://mobilizationjournal.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=maiq"/>
                     <outline text="Digital Activism Research Project" type="rss" htmlUrl="http://digital-activism.org" xmlUrl="http://digital-activism.org/feed/"/>
                     <outline text="SSIR Articles" type="rss" htmlUrl="https://ssir.org/articles/" xmlUrl="https://ssir.org/site/rss_2.0"/>
                     <outline text="Resources For Organizing and Social Change" type="rss" htmlUrl="http://resourcesforsocialchange.org/index.php/component/content/?view=featured" xmlUrl="http://resourcesforsocialchange.org/index.php?format=feed&amp;amp;type=rss"/>
@@ -535,6 +535,7 @@
                 <outline text="China Digital Times (CDT)" type="rss" htmlUrl="https://chinadigitaltimes.net" xmlUrl="https://chinadigitaltimes.net/feed/"/>
                 <outline text="Hong Kong Free Press HKFP" type="rss" htmlUrl="https://hongkongfp.com" xmlUrl="https://hongkongfp.com/feed/"/>
                 <outline text="Taipei Times" type="rss" htmlUrl="https://www.taipeitimes.com/" xmlUrl="https://www.taipeitimes.com/xml/index.rss"/>
+                <outline text="Daily Kos" type="rss" htmlUrl="https://www.dailykos.com" xmlUrl="https://www.dailykos.com/rss/index.xml"/>
             </outline>
             <outline text="YouTube Subscriptions">
                 <outline text="Cocktail Chemistry" type="rss" htmlUrl="https://www.youtube.com/channel/UC-o0CfpOyFJOfyWKtqS1hZQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-o0CfpOyFJOfyWKtqS1hZQ"/>
@@ -671,6 +672,15 @@
                 <outline text="slacktivist" type="rss" htmlUrl="https://www.patheos.com/blogs/slacktivist" xmlUrl="https://www.patheos.com/blogs/slacktivist/feed/"/>
                 <outline text="Freelance Christianity" type="rss" htmlUrl="https://www.patheos.com/blogs/freelancechristianity" xmlUrl="https://www.patheos.com/blogs/freelancechristianity/feed/"/>
                 <outline text="InterVarsity Blog" type="rss" htmlUrl="https://intervarsity.org/blog/feed" xmlUrl="https://intervarsity.org/blog/feed"/>
+                <outline text="Biblical and Theological Reflections Blog – Westar Institute" type="rss" htmlUrl="https://www.westarinstitute.org" xmlUrl="https://www.westarinstitute.org/blog/feed/"/>
+                <outline text="Johanna Bos" type="rss" htmlUrl="http://johannabos.com" xmlUrl="http://johannabos.com/feed/"/>
+                <outline text="Voices of Women of Spirit and Faith" type="rss" htmlUrl="https://www.patheos.com/blogs/thedivinefeminine" xmlUrl="https://www.patheos.com/blogs/thedivinefeminine/feed/"/>
+                <outline text="Feminism and Religion" type="rss" htmlUrl="https://feminismandreligion.com" xmlUrl="https://feminismandreligion.com/feed/"/>
+                <outline text="Caryn Riswold" type="rss" htmlUrl="https://www.patheos.com/blogs/carynriswold" xmlUrl="https://www.patheos.com/blogs/carynriswold/feed/"/>
+                <outline text="Sara Wilhelm Garbers" type="rss" htmlUrl="https://sarawg.com" xmlUrl="https://sarawg.com/feed/"/>
+                <outline text="God Is Not 3 Guys" type="rss" htmlUrl="http://godisnot3guyscom-jeanette.blogspot.com/" xmlUrl="https://feeds.feedburner.com/GodIsNot3Guys?fmt=xml"/>
+                <outline text="womenspiritandfaith" type="rss" htmlUrl="https://womenspiritandfaith.com" xmlUrl="https://womenspiritandfaith.com/feed/"/>
+                <outline text="Blog – Faith And Reason" type="rss" htmlUrl="https://www.faithandreason.org" xmlUrl="https://www.faithandreason.org/news/feed/"/>
             </outline>
             <outline text="Food and Drinks">
                 <outline text="The Hong Kong Cookery" type="rss" htmlUrl="http://www.thehongkongcookery.com/" xmlUrl="http://feeds.feedburner.com/TheHongKongCookery"/>
